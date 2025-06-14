@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Image Grid</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background-color: #f0f0f0;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 15px;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+    .grid img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      object-fit: cover;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    .error {
+      color: red;
+      text-align: center;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Image Gallery</h1>
+  <div class="grid" id="imageGrid"></div>
+  <div class="error" id="errorMessage"></div>
+
+  <script>
+    const grid = document.getElementById('imageGrid');
+    const errorMessage = document.getElementById('errorMessage');
+
+    fetch('./images.json')
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+        return res.json();
+      })
+      .then(imageFiles => {
+        imageFiles.forEach(filename => {
+          const img = document.createElement('img');
+          img.src = './Images/' + filename;
+          img.alt = filename;
+          grid.appendChild(img);
+        });
+      })
+      .catch(err => {
+        console.error('Error loading images:', err);
+        errorMessage.textContent = 'Failed to load images.';
+      });
+  </script>
+</body>
