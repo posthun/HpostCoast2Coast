@@ -3,10 +3,10 @@ name: Build and Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master'
+      - main
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   deploy:
@@ -24,8 +24,13 @@ jobs:
       - name: Generate images.json
         run: node generate-images-json.js
 
+      - name: Show current directory contents
+        run: ls -R
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .  # Use repo root as the published directory
+          publish_dir: .
+          publish_branch: gh-pages
+          force_orphan: true
