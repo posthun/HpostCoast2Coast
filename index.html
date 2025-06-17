@@ -34,6 +34,24 @@
       text-align: center;
       padding-top: 20px;
     }
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.85);
+      justify-content: center;
+      align-items: center;
+      z-index: 999;
+    }
+
+    #lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+      transition: transform 0.2s ease-in-out;
+    }
+
   </style>
 </head>
 
@@ -48,20 +66,38 @@
   </div>
 
   <script>
-    const grid = document.getElementById('imageGrid');
-    const errorMessage = document.getElementById('errorMessage');
+  let currentIndex = 0;
+  let imageList = [];
 
-    const basePath = window.location.pathname.replace(/\/$/, '');
-    fetch(`${basePath}/images.json`)
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img');
+
+  function showImage(index) {
+    if (index < 0 || index >= imageList.length) return;
+    currentIndex = index;
+    lightboxImg.src = `${basePath}/Images/${imageList[currentIndex]}`;
+    lightbox.style.display = 'flex';
+  }
+  
+  const grid = document.getElementById('imageGrid');
+  const errorMessage = document.getElementById('errorMessage');
+  const basePath = window.location.pathname.replace(/\/$/, '');
+  fetch(`${basePath}/images.json`)
     .then(res => {
       if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
       return res.json();
     })
     .then(imageFiles => {
-      imageFiles.forEach(filename => {
+      imageList = imageFiles;
+
+      imageFiles.forEach((filename, index) => {
         const img = document.createElement('img');
         img.src = `${basePath}/Images/${filename}`;
         img.alt = filename;
+        img.style.cursor = 'pointer';
+        img.addEventListener('click', () => {
+          showImage(index);
+        });
         grid.appendChild(img);
       });
     })
@@ -69,5 +105,29 @@
       console.error('Error loading images:', err);
       errorMessage.textContent = 'Failed to load images.';
     });
+
+  lightbox.addEventListener('click', () => {
+    lightbox.style.display = 'none';
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (lightbox.style.display !== 'flex') return;
+
+    switch (e.key) {
+      case 'Escape':
+        lightbox.style.display = 'none';
+        break;
+      case 'ArrowRight':
+        if (currentIndex < imageList.length - 1) {
+          showImage(currentIndex + 1);
+        }
+        break;
+      case 'ArrowLeft':
+        if (currentIndex > 0) {
+          showImage(currentIndex - 1);
+        }
+        break;
+    }
+  });
 </script>
 </body>
