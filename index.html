@@ -8,10 +8,13 @@
     body {
       font-family: sans-serif;
       padding: 20px;
-      background-color: #f0f0f0;
+      background-color: #e9e2dc;
       color: #333;
     }
     h1 {
+      text-align: center;
+    }
+    h4 {
       text-align: center;
     }
     .grid {
@@ -57,7 +60,7 @@
 
 <body>
   <h1>HpostCoast2Coast</h1>
-  <h5>Photography of Hunter Posten</h5>
+  <h5>My name is Hunter Posten, I'm a software engineer and hobbiest photography</h5>
   <div class="grid" id="imageGrid"></div>
   <div class="error" id="errorMessage"></div>
 
@@ -78,7 +81,7 @@
     lightboxImg.src = `${basePath}/Images/${imageList[currentIndex]}`;
     lightbox.style.display = 'flex';
   }
-  
+
   const grid = document.getElementById('imageGrid');
   const errorMessage = document.getElementById('errorMessage');
   const basePath = window.location.pathname.replace(/\/$/, '');
