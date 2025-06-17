@@ -24,13 +24,17 @@ jobs:
       - name: Generate images.json
         run: node generate-images-json.js
 
-      - name: Show current directory contents
-        run: ls -R
+      - name: Prepare deployment folder
+        run: |
+          mkdir public
+          cp index.html public/
+          cp images.json public/
+          cp -r Images public/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
