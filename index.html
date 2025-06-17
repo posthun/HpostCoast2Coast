@@ -85,6 +85,8 @@
   const grid = document.getElementById('imageGrid');
   const errorMessage = document.getElementById('errorMessage');
   const basePath = window.location.pathname.replace(/\/$/, '');
+
+  console.log("basePath:" + basePath);
   fetch(`${basePath}/images.json`)
     .then(res => {
       if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
@@ -94,6 +96,7 @@
       imageList = imageFiles;
 
       imageFiles.forEach((filename, index) => {
+        console.log("FileName: " + filename);
         const img = document.createElement('img');
         img.src = `${basePath}/Images/${filename}`;
         img.alt = filename;
