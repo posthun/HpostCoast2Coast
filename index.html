@@ -45,7 +45,8 @@
     const grid = document.getElementById('imageGrid');
     const errorMessage = document.getElementById('errorMessage');
 
-    fetch('./images.json')
+     const basePath = window.location.pathname.replace(/\/$/, '');
+    fetch(`${basePath}/images.json`)
       .then(res => {
         if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
         return res.json();
