@@ -87,7 +87,7 @@
   const basePath = window.location.pathname.replace(/\/$/, '');
 
   console.log("basePath:" + basePath);
-  fetch(`${basePath}/images.json`)
+  fetch(`images.json`)
     .then(res => {
       if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
       return res.json();
