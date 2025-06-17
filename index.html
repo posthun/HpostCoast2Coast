@@ -45,23 +45,23 @@
     const grid = document.getElementById('imageGrid');
     const errorMessage = document.getElementById('errorMessage');
 
-     const basePath = window.location.pathname.replace(/\/$/, '');
+    const basePath = window.location.pathname.replace(/\/$/, '');
     fetch(`${basePath}/images.json`)
-      .then(res => {
-        if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
-        return res.json();
-      })
-      .then(imageFiles => {
-        imageFiles.forEach(filename => {
-          const img = document.createElement('img');
-          img.src = './Images/' + filename;
-          img.alt = filename;
-          grid.appendChild(img);
-        });
-      })
-      .catch(err => {
-        console.error('Error loading images:', err);
-        errorMessage.textContent = 'Failed to load images.';
+    .then(res => {
+      if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+      return res.json();
+    })
+    .then(imageFiles => {
+      imageFiles.forEach(filename => {
+        const img = document.createElement('img');
+        img.src = `${basePath}/Images/${filename}`;
+        img.alt = filename;
+        grid.appendChild(img);
       });
-  </script>
+    })
+    .catch(err => {
+      console.error('Error loading images:', err);
+      errorMessage.textContent = 'Failed to load images.';
+    });
+</script>
 </body>
