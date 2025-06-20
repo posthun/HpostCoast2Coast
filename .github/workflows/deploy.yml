@@ -31,7 +31,7 @@ jobs:
           cp images.json public/
           cp -r Images public/
 
-      - name: Debug: Show public folder contents
+      - name: Show public folder contents
         run: ls -laR public
 
       - name: Deploy to GitHub Pages
