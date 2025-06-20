@@ -32,7 +32,7 @@ jobs:
           cp -r Images public/
 
       - name: Debug: Show public folder contents
-        run: ls -laR ./public
+        run: ls -laR public
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
