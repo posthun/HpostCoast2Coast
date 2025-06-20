@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 
 # Thumbnails can be generated, don't track them unless needed
-Thumbnails/
+#Thumbnails/
 
 # OS / editor / IDE junk
 .DS_Store
