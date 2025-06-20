@@ -99,6 +99,7 @@
         const img = document.createElement('img');
         img.src = `${basePath}/Images/${filename}`;
         img.alt = filename;
+        img.loading = 'lazy';
         img.style.cursor = 'pointer';
         img.addEventListener('click', () => {
           showImage(index);
