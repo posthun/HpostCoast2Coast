@@ -30,8 +30,9 @@ jobs:
           cp index.html public/
           cp images.json public/
           cp -r Images public/
-      - name: debug list public folder
-      run:  ls -R ./public
+
+      - name: Debug: Show public folder contents
+        run: ls -laR ./public
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
