@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Thumbnails can be generated, don't track them unless needed
+Thumbnails/
+
+# OS / editor / IDE junk
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac/Linux system files
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+ehthumbs.db
+desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# GitHub Pages build artifacts (optional, only if you're using a build step that copies to public)
+public/

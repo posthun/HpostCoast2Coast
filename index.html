@@ -11,6 +11,10 @@
       background-color: #e9e2dc;
       color: #333;
     }
+    #Title{
+      text-align: center;
+    }
+
     h1 {
       text-align: center;
     }
@@ -37,6 +41,7 @@
       text-align: center;
       padding-top: 20px;
     }
+    
     #lightbox {
       display: none;
       position: fixed;
@@ -51,7 +56,7 @@
       max-width: 90%;
       max-height: 90%;
       border-radius: 8px;
-      box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+      box-shadow: 0 0 20px rgba(151, 239, 194, 0.3);
       transition: transform 0.2s ease-in-out;
     }
 
@@ -65,7 +70,6 @@
     <p>Here's some of my pics</p>
   </div>
   
-  
   <div class="grid" id="imageGrid"></div>
   <div class="error" id="errorMessage"></div>
 
@@ -76,7 +80,6 @@
   <script>
   let currentIndex = 0;
   let imageList = [];
-  console.log("burh dude")
   const lightbox = document.getElementById('lightbox');
   const lightboxImg = document.getElementById('lightbox-img');
 
@@ -100,9 +103,8 @@
       imageList = imageFiles;
 
       imageFiles.forEach((filename, index) => {
-        console.log("FileName: " + filename);
         const img = document.createElement('img');
-        img.src = `${basePath}/Images/${filename}`;
+        img.src = `${basePath}/Thumbnails/${filename}`;
         img.alt = filename;
         img.loading = 'lazy';
         img.style.cursor = 'pointer';
