@@ -108,7 +108,7 @@
     })
     .catch(err => {
       console.error('Error loading images:', err);
-      errorMessage.textContent = 'Failed to load images.';
+      errorMessage.textContent = 'Failed to load images.' + err;
     });
 
   lightbox.addEventListener('click', () => {
