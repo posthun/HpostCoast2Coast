@@ -60,6 +60,27 @@
       transition: transform 0.2s ease-in-out;
     }
 
+    .spinner {
+      border: 6px solid #ccc;
+      border-top: 6px solid #fff;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      animation: spin 1s linear infinite;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -24px;
+      margin-left: -24px;
+      z-index: 1000;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
   </style>
 </head>
 
@@ -74,6 +95,7 @@
   <div class="error" id="errorMessage"></div>
 
   <div id="lightbox">
+    <div class="spinner" id="spinner"></div>
     <img id="lightbox-img" src="" alt="Enlarged image" />
   </div>
 
@@ -84,11 +106,31 @@
   const lightboxImg = document.getElementById('lightbox-img');
 
   function showImage(index) {
-    if (index < 0 || index >= imageList.length) return;
-    currentIndex = index;
-    lightboxImg.src = `${basePath}/Images/${imageList[currentIndex]}`;
-    lightbox.style.display = 'flex';
-  }
+  if (index < 0 || index >= imageList.length) return;
+
+  currentIndex = index;
+  const fullImageSrc = `${basePath}/Images/${imageList[currentIndex]}`;
+
+  lightboxImg.style.display = 'none';
+  document.getElementById('spinner').style.display = 'block';
+  lightbox.style.display = 'flex';
+
+  // Preload image
+  const imgLoader = new Image();
+  imgLoader.src = fullImageSrc;
+
+  imgLoader.onload = () => {
+    lightboxImg.src = fullImageSrc;
+    lightboxImg.style.display = 'block';
+    document.getElementById('spinner').style.display = 'none';
+  };
+
+  imgLoader.onerror = () => {
+    document.getElementById('spinner').style.display = 'none';
+    errorMessage.textContent = 'Failed to load full-size image.';
+  };
+}
+
 
   const grid = document.getElementById('imageGrid');
   const errorMessage = document.getElementById('errorMessage');
