@@ -86,30 +86,30 @@
   const errorMessage = document.getElementById('errorMessage');
   const basePath = window.location.pathname.replace(/\/$/, '');
 
-  fetch(`images.json`)
-    .then(res => {
-      if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
-      return res.json();
-    })
-    .then(imageFiles => {
-      imageList = imageFiles;
+  // fetch(`images.json`)
+  //   .then(res => {
+  //     if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+  //     return res.json();
+  //   })
+  //   .then(imageFiles => {
+  //     imageList = imageFiles;
 
-      imageFiles.forEach((filename, index) => {
-        console.log("FileName: " + filename);
-        const img = document.createElement('img');
-        img.src = `${basePath}/Images/${filename}`;
-        img.alt = filename;
-        img.style.cursor = 'pointer';
-        img.addEventListener('click', () => {
-          showImage(index);
-        });
-        grid.appendChild(img);
-      });
-    })
-    .catch(err => {
-      console.error('Error loading images:', err);
-      errorMessage.textContent = 'Failed to load images.' + err;
-    });
+  //     imageFiles.forEach((filename, index) => {
+  //       console.log("FileName: " + filename);
+  //       const img = document.createElement('img');
+  //       img.src = `${basePath}/Images/${filename}`;
+  //       img.alt = filename;
+  //       img.style.cursor = 'pointer';
+  //       img.addEventListener('click', () => {
+  //         showImage(index);
+  //       });
+  //       grid.appendChild(img);
+  //     });
+  //   })
+  //   .catch(err => {
+  //     console.error('Error loading images:', err);
+  //     errorMessage.textContent = 'Failed to load images.' + err;
+  //   });
 
   lightbox.addEventListener('click', () => {
     lightbox.style.display = 'none';
