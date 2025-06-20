@@ -71,7 +71,7 @@
   <script>
   let currentIndex = 0;
   let imageList = [];
-
+  console.log("burh dude")
   const lightbox = document.getElementById('lightbox');
   const lightboxImg = document.getElementById('lightbox-img');
 
@@ -86,7 +86,6 @@
   const errorMessage = document.getElementById('errorMessage');
   const basePath = window.location.pathname.replace(/\/$/, '');
 
-  console.log("basePath:" + basePath);
   fetch(`images.json`)
     .then(res => {
       if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);

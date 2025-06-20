@@ -21,9 +21,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate images.json
-        run: node generate-images-json.js
-
       - name: Prepare deployment folder
         run: |
           mkdir public
