@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunter Posten Photography</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background-color: #e9e2dc;
+      color: #333;
+    }
+    #Title{
+      text-align: center;
+    }
+
+    h1 {
+      text-align: center;
+    }
+    h4 {
+      text-align: center;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 15px;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+    .grid img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      object-fit: cover;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    .error {
+      color: red;
+      text-align: center;
+      padding-top: 20px;
+    }
+    
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.85);
+      justify-content: center;
+      align-items: center;
+      z-index: 999;
+    }
+
+    #lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(151, 239, 194, 0.3);
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .spinner {
+      border: 6px solid #ccc;
+      border-top: 6px solid #fff;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      animation: spin 1s linear infinite;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -24px;
+      margin-left: -24px;
+      z-index: 1000;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+  <div id="Title">
+    <h1>HPostCoast2Coast.com</h1>
+    <p>My name is Hunter Posten I'm a Twin Cities based Software Engineer and hobbiest photographer</p>
+    <p>Here's some of my pics</p>
+  </div>
+  
+  <div class="grid" id="imageGrid"></div>
+  <div class="error" id="errorMessage"></div>
+
+  <div id="lightbox">
+    <div class="spinner" id="spinner"></div>
+    <img id="lightbox-img" src="" alt="Enlarged image" />
+  </div>
+
+  <script>
+  let currentIndex = 0;
+  let imageList = [];
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img');
+
+  function showImage(index) {
+  if (index < 0 || index >= imageList.length) return;
+
+  currentIndex = index;
+  const fullImageSrc = `${basePath}/Images/${imageList[currentIndex]}`;
+
+  lightboxImg.style.display = 'none';
+  document.getElementById('spinner').style.display = 'block';
+  lightbox.style.display = 'flex';
+
+  // Preload image
+  const imgLoader = new Image();
+  imgLoader.src = fullImageSrc;
+
+  imgLoader.onload = () => {
+    lightboxImg.src = fullImageSrc;
+    lightboxImg.style.display = 'block';
+    document.getElementById('spinner').style.display = 'none';
+  };
+
+  imgLoader.onerror = () => {
+    document.getElementById('spinner').style.display = 'none';
+    errorMessage.textContent = 'Failed to load full-size image.';
+  };
+}
+
+
+  const grid = document.getElementById('imageGrid');
+  const errorMessage = document.getElementById('errorMessage');
+  const basePath = window.location.pathname.replace(/\/$/, '');
+
+  fetch(`images.json`)
+    .then(res => {
+      if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+      return res.json();
+    })
+    .then(imageFiles => {
+      imageList = imageFiles;
+
+      imageFiles.forEach((filename, index) => {
+        const img = document.createElement('img');
+        img.src = `${basePath}/Thumbnails/${filename}`;
+        img.alt = filename;
+        img.loading = 'lazy';
+        img.style.cursor = 'pointer';
+        img.addEventListener('click', () => {
+          showImage(index);
+        });
+        grid.appendChild(img);
+      });
+    })
+    .catch(err => {
+      console.error('Error loading images:', err);
+      errorMessage.textContent = 'Failed to load images.' + err;
+    });
+
+  lightbox.addEventListener('click', () => {
+    lightbox.style.display = 'none';
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (lightbox.style.display !== 'flex') return;
+
+    switch (e.key) {
+      case 'Escape':
+        lightbox.style.display = 'none';
+        break;
+      case 'ArrowRight':
+        if (currentIndex < imageList.length - 1) {
+          showImage(currentIndex + 1);
+        }
+        break;
+      case 'ArrowLeft':
+        if (currentIndex > 0) {
+          showImage(currentIndex - 1);
+        }
+        break;
+    }
+  });
+</script>
+</body>
