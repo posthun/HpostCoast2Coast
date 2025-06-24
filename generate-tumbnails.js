@@ -17,7 +17,7 @@ files.forEach(file => {
   const outputPath = path.join(outputDir, file);
 
   sharp(inputPath)
-    .resize(400) // or 300 for even faster loads
+    .resize(400,400, "inside") // or 300 for even faster loads
     .jpeg({ quality: 75 }) // keeps files small but nice
     .toFile(outputPath)
     .then(() => console.log(`✅ Thumbnail created: ${file}`))
