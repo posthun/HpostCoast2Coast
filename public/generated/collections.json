@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TestCollection1",
+    "description": "TEST TEST TEST BREAST BREAST",
+    "images": [
+      {
+        "full": "content/collections/TestCollection1/Screenshot 2026-03-31 193703.png",
+        "thumb": "thumbnails/collections/TestCollection1/Screenshot 2026-03-31 193703.png",
+        "exif": {
+          "camera": "",
+          "lens": null,
+          "focal": null,
+          "aperture": null,
+          "shutter": null,
+          "iso": null,
+          "date": null
+        }
+      }
+    ]
+  }
+]

@@ -27,4 +27,4 @@ desktop.ini
 .vscode/
 
 # GitHub Pages build artifacts (optional, only if you're using a build step that copies to public)
-public/
+#public/

@@ -1,0 +1,910 @@
+[
+  {
+    "full": "content/images/DSC00987.jpg",
+    "thumb": "thumbnails/images/DSC00987.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 2.8,
+      "shutter": 0.004,
+      "iso": 400,
+      "date": "2022-12-02T14:49:11.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01078.jpg",
+    "thumb": "thumbnails/images/DSC01078.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 40,
+      "aperture": 2.8,
+      "shutter": 0.00625,
+      "iso": 6400,
+      "date": "2022-12-03T16:09:25.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01083.jpg",
+    "thumb": "thumbnails/images/DSC01083.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 2.8,
+      "shutter": 0.004,
+      "iso": 5000,
+      "date": "2022-12-03T16:11:47.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01207.jpg",
+    "thumb": "thumbnails/images/DSC01207.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 45,
+      "aperture": 22,
+      "shutter": 0.004,
+      "iso": 10000,
+      "date": "2022-12-05T09:55:41.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01379.jpg",
+    "thumb": "thumbnails/images/DSC01379.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 70,
+      "aperture": 9,
+      "shutter": 0.004,
+      "iso": 800,
+      "date": "2022-12-06T09:43:54.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01432.jpg",
+    "thumb": "thumbnails/images/DSC01432.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 20,
+      "shutter": 0.02,
+      "iso": 800,
+      "date": "2022-12-06T10:17:27.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01586.jpg",
+    "thumb": "thumbnails/images/DSC01586.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 54,
+      "aperture": 2.8,
+      "shutter": 0.0008,
+      "iso": 100,
+      "date": "2022-12-06T13:09:06.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC01610.jpg",
+    "thumb": "thumbnails/images/DSC01610.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 2.8,
+      "shutter": 0.125,
+      "iso": 800,
+      "date": "2022-12-06T21:26:38.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC02752.jpg",
+    "thumb": "thumbnails/images/DSC02752.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 2.8,
+      "shutter": 0.0015625,
+      "iso": 100,
+      "date": "2023-05-04T20:37:10.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC02934.jpg",
+    "thumb": "thumbnails/images/DSC02934.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 49,
+      "aperture": 5,
+      "shutter": 0.003125,
+      "iso": 100,
+      "date": "2023-05-06T20:29:03.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC03066.jpg",
+    "thumb": "thumbnails/images/DSC03066.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.004,
+      "iso": 320,
+      "date": "2023-05-08T03:25:06.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC03167.jpg",
+    "thumb": "thumbnails/images/DSC03167.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 5.6,
+      "shutter": 0.004,
+      "iso": 160,
+      "date": "2023-05-09T03:15:49.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC03422.jpg",
+    "thumb": "thumbnails/images/DSC03422.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 4,
+      "shutter": 0.001,
+      "iso": 100,
+      "date": "2023-09-02T17:26:19.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC04371-Pano.jpg",
+    "thumb": "thumbnails/images/DSC04371-Pano.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+      "focal": 16,
+      "aperture": 2.8,
+      "shutter": 0.016666666666666666,
+      "iso": 200,
+      "date": "2023-11-15T12:09:34.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC04661.jpg",
+    "thumb": "thumbnails/images/DSC04661.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 9,
+      "shutter": 0.003125,
+      "iso": 200,
+      "date": "2023-11-16T05:29:34.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05165.jpg",
+    "thumb": "thumbnails/images/DSC05165.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 55,
+      "aperture": 9,
+      "shutter": 0.002,
+      "iso": 320,
+      "date": "2023-11-19T00:55:06.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05168.jpg",
+    "thumb": "thumbnails/images/DSC05168.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 46,
+      "aperture": 9,
+      "shutter": 0.03333333333333333,
+      "iso": 320,
+      "date": "2023-11-19T00:57:58.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05330.jpg",
+    "thumb": "thumbnails/images/DSC05330.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 6.3,
+      "shutter": 0.004,
+      "iso": 1600,
+      "date": "2023-11-20T04:47:26.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05400.jpg",
+    "thumb": "thumbnails/images/DSC05400.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 46,
+      "aperture": 6.3,
+      "shutter": 0.004,
+      "iso": 1600,
+      "date": "2023-11-20T05:58:44.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05421.jpg",
+    "thumb": "thumbnails/images/DSC05421.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 51,
+      "aperture": 6.3,
+      "shutter": 0.016666666666666666,
+      "iso": 1600,
+      "date": "2023-11-20T07:40:28.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05466-Pano.jpg",
+    "thumb": "thumbnails/images/DSC05466-Pano.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 8,
+      "shutter": 0.004,
+      "iso": 1600,
+      "date": "2023-11-20T08:53:34.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05475.jpg",
+    "thumb": "thumbnails/images/DSC05475.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 53,
+      "aperture": 8,
+      "shutter": 0.004,
+      "iso": 1600,
+      "date": "2023-11-20T08:55:15.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05503.jpg",
+    "thumb": "thumbnails/images/DSC05503.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 44,
+      "aperture": 4.5,
+      "shutter": 0.0125,
+      "iso": 2500,
+      "date": "2023-11-20T09:19:08.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05522.jpg",
+    "thumb": "thumbnails/images/DSC05522.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 4.5,
+      "shutter": 0.0125,
+      "iso": 2500,
+      "date": "2023-11-20T10:15:07.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05525.jpg",
+    "thumb": "thumbnails/images/DSC05525.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 4.5,
+      "shutter": 0.0125,
+      "iso": 3200,
+      "date": "2023-11-20T10:32:38.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05558.jpg",
+    "thumb": "thumbnails/images/DSC05558.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+      "focal": 20.8,
+      "aperture": 4.5,
+      "shutter": 0.00625,
+      "iso": 500,
+      "date": "2023-11-20T11:52:15.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05792.jpg",
+    "thumb": "thumbnails/images/DSC05792.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 56,
+      "aperture": 3.5,
+      "shutter": 0.0008,
+      "iso": 800,
+      "date": "2023-11-22T03:26:36.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05802.jpg",
+    "thumb": "thumbnails/images/DSC05802.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 34,
+      "aperture": 20,
+      "shutter": 0.002,
+      "iso": 3200,
+      "date": "2023-11-22T03:32:38.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05853.jpg",
+    "thumb": "thumbnails/images/DSC05853.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 2,
+      "shutter": 0.02,
+      "iso": 400,
+      "date": "2023-11-22T11:34:00.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC05955.jpg",
+    "thumb": "thumbnails/images/DSC05955.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 49,
+      "aperture": 6.3,
+      "shutter": 0.004,
+      "iso": 1600,
+      "date": "2023-11-24T01:35:29.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06410.jpg",
+    "thumb": "thumbnails/images/DSC06410.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 36,
+      "aperture": 8,
+      "shutter": 0.000625,
+      "iso": 250,
+      "date": "2024-07-30T09:14:12.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06604.jpg",
+    "thumb": "thumbnails/images/DSC06604.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 10,
+      "shutter": 0.0008,
+      "iso": 2000,
+      "date": "2024-08-02T14:29:37.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06655.jpg",
+    "thumb": "thumbnails/images/DSC06655.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 47,
+      "aperture": 10,
+      "shutter": 0.0025,
+      "iso": 400,
+      "date": "2024-08-02T17:36:21.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06717.jpg",
+    "thumb": "thumbnails/images/DSC06717.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 7.1,
+      "shutter": 0.0025,
+      "iso": 100,
+      "date": "2024-08-03T10:51:31.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06759.jpg",
+    "thumb": "thumbnails/images/DSC06759.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 33,
+      "aperture": 8,
+      "shutter": 0.0005,
+      "iso": 2000,
+      "date": "2024-08-03T12:43:59.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06760.jpg",
+    "thumb": "thumbnails/images/DSC06760.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 46,
+      "aperture": 8,
+      "shutter": 0.0005,
+      "iso": 2000,
+      "date": "2024-08-03T12:44:06.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06802.jpg",
+    "thumb": "thumbnails/images/DSC06802.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 22,
+      "shutter": 0.005,
+      "iso": 500,
+      "date": "2024-08-03T14:40:24.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06854.jpg",
+    "thumb": "thumbnails/images/DSC06854.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 63,
+      "aperture": 7.1,
+      "shutter": 0.001,
+      "iso": 1000,
+      "date": "2024-08-04T11:50:42.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06857.jpg",
+    "thumb": "thumbnails/images/DSC06857.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 68,
+      "aperture": 7.1,
+      "shutter": 0.001,
+      "iso": 1000,
+      "date": "2024-08-04T12:01:05.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC06859-Pano.jpg",
+    "thumb": "thumbnails/images/DSC06859-Pano.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 10,
+      "shutter": 0.00125,
+      "iso": 640,
+      "date": "2024-08-04T12:01:13.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07079.jpg",
+    "thumb": "thumbnails/images/DSC07079.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 5.6,
+      "shutter": 0.0015625,
+      "iso": 125,
+      "date": "2024-09-23T09:09:23.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07277.jpg",
+    "thumb": "thumbnails/images/DSC07277.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 7.1,
+      "shutter": 0.004,
+      "iso": 8000,
+      "date": "2024-09-26T11:19:03.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07348-Pano.jpg",
+    "thumb": "thumbnails/images/DSC07348-Pano.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 6.3,
+      "shutter": 0.002,
+      "iso": 100,
+      "date": "2024-09-27T15:16:22.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07366.jpg",
+    "thumb": "thumbnails/images/DSC07366.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 61,
+      "aperture": 8,
+      "shutter": 0.002,
+      "iso": 125,
+      "date": "2024-09-27T15:30:35.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07371.jpg",
+    "thumb": "thumbnails/images/DSC07371.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 36,
+      "aperture": 8,
+      "shutter": 0.002,
+      "iso": 125,
+      "date": "2024-09-27T15:31:32.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07387.jpg",
+    "thumb": "thumbnails/images/DSC07387.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.002,
+      "iso": 200,
+      "date": "2024-09-27T16:05:16.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07474.jpg",
+    "thumb": "thumbnails/images/DSC07474.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 4,
+      "shutter": 0.00625,
+      "iso": 125,
+      "date": "2024-09-28T09:47:08.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07508.jpg",
+    "thumb": "thumbnails/images/DSC07508.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 7.1,
+      "shutter": 0.00125,
+      "iso": 1000,
+      "date": "2024-09-28T17:32:43.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC07805.jpg",
+    "thumb": "thumbnails/images/DSC07805.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 11,
+      "shutter": 0.005,
+      "iso": 2500,
+      "date": "2025-08-01T23:57:13.000Z"
+    }
+  },
+  {
+    "full": "content/images/DSC08219.jpg",
+    "thumb": "thumbnails/images/DSC08219.jpg",
+    "exif": {
+      "camera": "SONY ZV-1",
+      "lens": "24-70mm F1.8-2.8",
+      "focal": 20.71,
+      "aperture": 8,
+      "shutter": 0.005,
+      "iso": 200,
+      "date": "2020-09-20T10:12:37.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0004.jpg",
+    "thumb": "thumbnails/images/Negative0004.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-05-29T02:08:03.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0007.jpg",
+    "thumb": "thumbnails/images/Negative0007.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-02-23T00:55:48.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0010.jpg",
+    "thumb": "thumbnails/images/Negative0010.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2021-12-18T17:45:40.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0029.jpg",
+    "thumb": "thumbnails/images/Negative0029.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-03-13T16:32:23.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0031.jpg",
+    "thumb": "thumbnails/images/Negative0031.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-03-13T16:35:51.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0036.jpg",
+    "thumb": "thumbnails/images/Negative0036.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-02-23T00:19:10.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0056.jpg",
+    "thumb": "thumbnails/images/Negative0056.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-05-28T21:27:34.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0062.jpg",
+    "thumb": "thumbnails/images/Negative0062.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-05-28T22:05:45.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0065.jpg",
+    "thumb": "thumbnails/images/Negative0065.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-05-29T01:19:13.000Z"
+    }
+  },
+  {
+    "full": "content/images/Negative0067.jpg",
+    "thumb": "thumbnails/images/Negative0067.jpg",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": "2022-05-29T01:26:25.000Z"
+    }
+  },
+  {
+    "full": "content/images/R1-01542-012A.JPG",
+    "thumb": "thumbnails/images/R1-01542-012A.JPG",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": null
+    }
+  },
+  {
+    "full": "content/images/R1-01542-017A.JPG",
+    "thumb": "thumbnails/images/R1-01542-017A.JPG",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": null
+    }
+  },
+  {
+    "full": "content/images/R1-01542-019A.JPG",
+    "thumb": "thumbnails/images/R1-01542-019A.JPG",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": null
+    }
+  },
+  {
+    "full": "content/images/R1-01542-021A.JPG",
+    "thumb": "thumbnails/images/R1-01542-021A.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-01542-022A.JPG",
+    "thumb": "thumbnails/images/R1-01542-022A.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-02312-020A.JPG",
+    "thumb": "thumbnails/images/R1-02312-020A.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-03894-011A.JPG",
+    "thumb": "thumbnails/images/R1-03894-011A.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-03894-012A.JPG",
+    "thumb": "thumbnails/images/R1-03894-012A.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-03894-024A.JPG",
+    "thumb": "thumbnails/images/R1-03894-024A.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-08786-0009.JPG",
+    "thumb": "thumbnails/images/R1-08786-0009.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-08786-0012.JPG",
+    "thumb": "thumbnails/images/R1-08786-0012.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-08786-0014.JPG",
+    "thumb": "thumbnails/images/R1-08786-0014.JPG",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": null
+    }
+  },
+  {
+    "full": "content/images/R1-08786-0032.JPG",
+    "thumb": "thumbnails/images/R1-08786-0032.JPG",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": null
+    }
+  },
+  {
+    "full": "content/images/R1-09123-0004.JPG",
+    "thumb": "thumbnails/images/R1-09123-0004.JPG",
+    "exif": {
+      "camera": "",
+      "lens": null,
+      "focal": null,
+      "aperture": null,
+      "shutter": null,
+      "iso": null,
+      "date": null
+    }
+  },
+  {
+    "full": "content/images/R1-09123-0023.JPG",
+    "thumb": "thumbnails/images/R1-09123-0023.JPG",
+    "exif": null
+  },
+  {
+    "full": "content/images/R1-09123-0024.JPG",
+    "thumb": "thumbnails/images/R1-09123-0024.JPG",
+    "exif": null
+  }
+]
