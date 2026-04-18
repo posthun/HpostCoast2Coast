@@ -3,26 +3,32 @@ const path = require("path");
 const sharp = require("sharp");
 const exifr = require("exifr");
 
-const INPUT = "./public/content";
+const CONTENT = "./public/content";
 const OUTPUT = "./public/generated";
 const THUMBS = "./public/thumbnails";
 
-const THUMB_WIDTH = 400;
+const THUMB_SIZE = 400;
 
-const toWebPath = (filePath) =>
-  filePath.replace(/^\.\/public\//, "").replace(/^public\//, "").replace(/\\/g, "/");
-
-async function thumb(input, output) {
+// --------------------
+// Thumbnail generation
+// --------------------
+async function createThumbnail(input, output) {
   await fs.ensureDir(path.dirname(output));
 
   if (await fs.pathExists(output)) return;
 
   await sharp(input)
-    .resize({ width: THUMB_WIDTH })
+    .resize(THUMB_SIZE, THUMB_SIZE, {
+      fit: "cover",        // square crop
+      position: "attention"
+    })
     .jpeg({ quality: 80 })
     .toFile(output);
 }
 
+// --------------------
+// EXIF extraction
+// --------------------
 async function getExif(file) {
   try {
     const d = await exifr.parse(file);
@@ -42,26 +48,28 @@ async function getExif(file) {
   }
 }
 
-async function processFolder(dir, outThumbDir) {
+// --------------------
+// Core processor
+// --------------------
+async function processFolder(dir, thumbDir, webBase) {
   const files = await fs.readdir(dir);
-
   const images = [];
 
   for (const file of files) {
     if (!file.match(/\.(jpg|jpeg|png|webp)$/i)) continue;
 
     const fullPath = path.join(dir, file);
+    const thumbPath = path.join(thumbDir, file);
 
-    // IMPORTANT: ensure thumbs go into /public/thumbnails
-    const thumbPath = path.join(outThumbDir, file);
-
-    await thumb(fullPath, thumbPath);
+    await createThumbnail(fullPath, thumbPath);
 
     const exif = await getExif(fullPath);
 
     images.push({
-      full: `/content/${path.basename(dir)}/${file}`.replace(/\\/g, "/"),
-      thumb: `/thumbnails/${path.relative(THUMBS, thumbPath).replace(/\\/g, "/")}`,
+      full: `${webBase}/${file}`, // relative path for browser
+      thumb: `./thumbnails/${path
+        .relative(THUMBS, thumbPath)
+        .replace(/\\/g, "/")}`,
       exif
     });
   }
@@ -69,26 +77,46 @@ async function processFolder(dir, outThumbDir) {
   return images;
 }
 
+// --------------------
+// Main build
+// --------------------
 async function main() {
+  console.log("🧹 Cleaning old build...");
+
+  // Clear generated + thumbnails (but keep content)
+  await fs.remove(OUTPUT);
+  await fs.remove(THUMBS);
+
   await fs.ensureDir(OUTPUT);
   await fs.ensureDir(THUMBS);
 
-  // MAIN IMAGES
+  // --------------------
+  // Main images
+  // --------------------
+  console.log("🖼️ Processing main images...");
+
   const mainImages = await processFolder(
-    `${INPUT}/images`,
-    `${THUMBS}/images`
+    `${CONTENT}/images`,
+    `${THUMBS}/images`,
+    "./content/images"
   );
 
   await fs.writeJson(`${OUTPUT}/images.json`, mainImages, { spaces: 2 });
 
-  // COLLECTIONS
-  const collectionsDir = `${INPUT}/collections`;
+  // --------------------
+  // Collections
+  // --------------------
+  console.log("📚 Processing collections...");
+
+  const collectionsDir = `${CONTENT}/collections`;
   const folders = await fs.readdir(collectionsDir);
 
   const collections = [];
 
   for (const folder of folders) {
     const fullPath = path.join(collectionsDir, folder);
+
+    if (!(await fs.stat(fullPath)).isDirectory()) continue;
 
     const descriptionPath = path.join(fullPath, "description.txt");
 
@@ -99,7 +127,8 @@ async function main() {
 
     const images = await processFolder(
       fullPath,
-      `${THUMBS}/collections/${folder}`
+      `${THUMBS}/collections/${folder}`,
+      `./content/collections/${folder}`
     );
 
     collections.push({
@@ -109,7 +138,9 @@ async function main() {
     });
   }
 
-  await fs.writeJson(`${OUTPUT}/collections.json`, collections, { spaces: 2 });
+  await fs.writeJson(`${OUTPUT}/collections.json`, collections, {
+    spaces: 2
+  });
 
   console.log("✅ Build complete");
 }

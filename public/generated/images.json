@@ -1,7 +1,7 @@
 [
   {
-    "full": "/content/images/DSC00987.jpg",
-    "thumb": "/thumbnails/images/DSC00987.jpg",
+    "full": "./content/images/DSC00987.jpg",
+    "thumb": "./thumbnails/images/DSC00987.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -13,8 +13,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01078.jpg",
-    "thumb": "/thumbnails/images/DSC01078.jpg",
+    "full": "./content/images/DSC01078.jpg",
+    "thumb": "./thumbnails/images/DSC01078.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -26,8 +26,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01083.jpg",
-    "thumb": "/thumbnails/images/DSC01083.jpg",
+    "full": "./content/images/DSC01083.jpg",
+    "thumb": "./thumbnails/images/DSC01083.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -39,8 +39,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01207.jpg",
-    "thumb": "/thumbnails/images/DSC01207.jpg",
+    "full": "./content/images/DSC01207.jpg",
+    "thumb": "./thumbnails/images/DSC01207.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -52,8 +52,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01379.jpg",
-    "thumb": "/thumbnails/images/DSC01379.jpg",
+    "full": "./content/images/DSC01379.jpg",
+    "thumb": "./thumbnails/images/DSC01379.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -65,8 +65,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01432.jpg",
-    "thumb": "/thumbnails/images/DSC01432.jpg",
+    "full": "./content/images/DSC01432.jpg",
+    "thumb": "./thumbnails/images/DSC01432.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -78,8 +78,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01586.jpg",
-    "thumb": "/thumbnails/images/DSC01586.jpg",
+    "full": "./content/images/DSC01586.jpg",
+    "thumb": "./thumbnails/images/DSC01586.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -91,8 +91,8 @@
     }
   },
   {
-    "full": "/content/images/DSC01610.jpg",
-    "thumb": "/thumbnails/images/DSC01610.jpg",
+    "full": "./content/images/DSC01610.jpg",
+    "thumb": "./thumbnails/images/DSC01610.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -104,8 +104,8 @@
     }
   },
   {
-    "full": "/content/images/DSC02752.jpg",
-    "thumb": "/thumbnails/images/DSC02752.jpg",
+    "full": "./content/images/DSC02752.jpg",
+    "thumb": "./thumbnails/images/DSC02752.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -117,8 +117,8 @@
     }
   },
   {
-    "full": "/content/images/DSC02934.jpg",
-    "thumb": "/thumbnails/images/DSC02934.jpg",
+    "full": "./content/images/DSC02934.jpg",
+    "thumb": "./thumbnails/images/DSC02934.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -130,8 +130,8 @@
     }
   },
   {
-    "full": "/content/images/DSC03066.jpg",
-    "thumb": "/thumbnails/images/DSC03066.jpg",
+    "full": "./content/images/DSC03066.jpg",
+    "thumb": "./thumbnails/images/DSC03066.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -143,8 +143,8 @@
     }
   },
   {
-    "full": "/content/images/DSC03167.jpg",
-    "thumb": "/thumbnails/images/DSC03167.jpg",
+    "full": "./content/images/DSC03167.jpg",
+    "thumb": "./thumbnails/images/DSC03167.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -156,8 +156,8 @@
     }
   },
   {
-    "full": "/content/images/DSC03422.jpg",
-    "thumb": "/thumbnails/images/DSC03422.jpg",
+    "full": "./content/images/DSC03422.jpg",
+    "thumb": "./thumbnails/images/DSC03422.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "SAMYANG AF 35mm F1.8",
@@ -169,8 +169,8 @@
     }
   },
   {
-    "full": "/content/images/DSC04371-Pano.jpg",
-    "thumb": "/thumbnails/images/DSC04371-Pano.jpg",
+    "full": "./content/images/DSC04371-Pano.jpg",
+    "thumb": "./thumbnails/images/DSC04371-Pano.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "16-28mm F2.8 DG DN | Contemporary 022",
@@ -182,8 +182,8 @@
     }
   },
   {
-    "full": "/content/images/DSC04661.jpg",
-    "thumb": "/thumbnails/images/DSC04661.jpg",
+    "full": "./content/images/DSC04661.jpg",
+    "thumb": "./thumbnails/images/DSC04661.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -195,8 +195,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05165.jpg",
-    "thumb": "/thumbnails/images/DSC05165.jpg",
+    "full": "./content/images/DSC05165.jpg",
+    "thumb": "./thumbnails/images/DSC05165.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -208,8 +208,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05168.jpg",
-    "thumb": "/thumbnails/images/DSC05168.jpg",
+    "full": "./content/images/DSC05168.jpg",
+    "thumb": "./thumbnails/images/DSC05168.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -221,8 +221,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05330.jpg",
-    "thumb": "/thumbnails/images/DSC05330.jpg",
+    "full": "./content/images/DSC05330.jpg",
+    "thumb": "./thumbnails/images/DSC05330.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -234,8 +234,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05400.jpg",
-    "thumb": "/thumbnails/images/DSC05400.jpg",
+    "full": "./content/images/DSC05400.jpg",
+    "thumb": "./thumbnails/images/DSC05400.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -247,8 +247,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05421.jpg",
-    "thumb": "/thumbnails/images/DSC05421.jpg",
+    "full": "./content/images/DSC05421.jpg",
+    "thumb": "./thumbnails/images/DSC05421.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -260,8 +260,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05466-Pano.jpg",
-    "thumb": "/thumbnails/images/DSC05466-Pano.jpg",
+    "full": "./content/images/DSC05466-Pano.jpg",
+    "thumb": "./thumbnails/images/DSC05466-Pano.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -273,8 +273,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05475.jpg",
-    "thumb": "/thumbnails/images/DSC05475.jpg",
+    "full": "./content/images/DSC05475.jpg",
+    "thumb": "./thumbnails/images/DSC05475.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -286,8 +286,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05503.jpg",
-    "thumb": "/thumbnails/images/DSC05503.jpg",
+    "full": "./content/images/DSC05503.jpg",
+    "thumb": "./thumbnails/images/DSC05503.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -299,8 +299,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05522.jpg",
-    "thumb": "/thumbnails/images/DSC05522.jpg",
+    "full": "./content/images/DSC05522.jpg",
+    "thumb": "./thumbnails/images/DSC05522.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -312,8 +312,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05525.jpg",
-    "thumb": "/thumbnails/images/DSC05525.jpg",
+    "full": "./content/images/DSC05525.jpg",
+    "thumb": "./thumbnails/images/DSC05525.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "SAMYANG AF 35mm F1.8",
@@ -325,8 +325,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05558.jpg",
-    "thumb": "/thumbnails/images/DSC05558.jpg",
+    "full": "./content/images/DSC05558.jpg",
+    "thumb": "./thumbnails/images/DSC05558.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "16-28mm F2.8 DG DN | Contemporary 022",
@@ -338,8 +338,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05792.jpg",
-    "thumb": "/thumbnails/images/DSC05792.jpg",
+    "full": "./content/images/DSC05792.jpg",
+    "thumb": "./thumbnails/images/DSC05792.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -351,8 +351,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05802.jpg",
-    "thumb": "/thumbnails/images/DSC05802.jpg",
+    "full": "./content/images/DSC05802.jpg",
+    "thumb": "./thumbnails/images/DSC05802.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -364,8 +364,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05853.jpg",
-    "thumb": "/thumbnails/images/DSC05853.jpg",
+    "full": "./content/images/DSC05853.jpg",
+    "thumb": "./thumbnails/images/DSC05853.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "SAMYANG AF 35mm F1.8",
@@ -377,8 +377,8 @@
     }
   },
   {
-    "full": "/content/images/DSC05955.jpg",
-    "thumb": "/thumbnails/images/DSC05955.jpg",
+    "full": "./content/images/DSC05955.jpg",
+    "thumb": "./thumbnails/images/DSC05955.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -390,8 +390,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06410.jpg",
-    "thumb": "/thumbnails/images/DSC06410.jpg",
+    "full": "./content/images/DSC06410.jpg",
+    "thumb": "./thumbnails/images/DSC06410.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -403,8 +403,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06604.jpg",
-    "thumb": "/thumbnails/images/DSC06604.jpg",
+    "full": "./content/images/DSC06604.jpg",
+    "thumb": "./thumbnails/images/DSC06604.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -416,8 +416,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06655.jpg",
-    "thumb": "/thumbnails/images/DSC06655.jpg",
+    "full": "./content/images/DSC06655.jpg",
+    "thumb": "./thumbnails/images/DSC06655.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -429,8 +429,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06717.jpg",
-    "thumb": "/thumbnails/images/DSC06717.jpg",
+    "full": "./content/images/DSC06717.jpg",
+    "thumb": "./thumbnails/images/DSC06717.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -442,8 +442,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06759.jpg",
-    "thumb": "/thumbnails/images/DSC06759.jpg",
+    "full": "./content/images/DSC06759.jpg",
+    "thumb": "./thumbnails/images/DSC06759.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -455,8 +455,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06760.jpg",
-    "thumb": "/thumbnails/images/DSC06760.jpg",
+    "full": "./content/images/DSC06760.jpg",
+    "thumb": "./thumbnails/images/DSC06760.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -468,8 +468,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06802.jpg",
-    "thumb": "/thumbnails/images/DSC06802.jpg",
+    "full": "./content/images/DSC06802.jpg",
+    "thumb": "./thumbnails/images/DSC06802.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -481,8 +481,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06854.jpg",
-    "thumb": "/thumbnails/images/DSC06854.jpg",
+    "full": "./content/images/DSC06854.jpg",
+    "thumb": "./thumbnails/images/DSC06854.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -494,8 +494,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06857.jpg",
-    "thumb": "/thumbnails/images/DSC06857.jpg",
+    "full": "./content/images/DSC06857.jpg",
+    "thumb": "./thumbnails/images/DSC06857.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -507,8 +507,8 @@
     }
   },
   {
-    "full": "/content/images/DSC06859-Pano.jpg",
-    "thumb": "/thumbnails/images/DSC06859-Pano.jpg",
+    "full": "./content/images/DSC06859-Pano.jpg",
+    "thumb": "./thumbnails/images/DSC06859-Pano.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -520,8 +520,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07079.jpg",
-    "thumb": "/thumbnails/images/DSC07079.jpg",
+    "full": "./content/images/DSC07079.jpg",
+    "thumb": "./thumbnails/images/DSC07079.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -533,8 +533,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07277.jpg",
-    "thumb": "/thumbnails/images/DSC07277.jpg",
+    "full": "./content/images/DSC07277.jpg",
+    "thumb": "./thumbnails/images/DSC07277.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -546,8 +546,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07348-Pano.jpg",
-    "thumb": "/thumbnails/images/DSC07348-Pano.jpg",
+    "full": "./content/images/DSC07348-Pano.jpg",
+    "thumb": "./thumbnails/images/DSC07348-Pano.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -559,8 +559,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07366.jpg",
-    "thumb": "/thumbnails/images/DSC07366.jpg",
+    "full": "./content/images/DSC07366.jpg",
+    "thumb": "./thumbnails/images/DSC07366.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -572,8 +572,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07371.jpg",
-    "thumb": "/thumbnails/images/DSC07371.jpg",
+    "full": "./content/images/DSC07371.jpg",
+    "thumb": "./thumbnails/images/DSC07371.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -585,8 +585,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07387.jpg",
-    "thumb": "/thumbnails/images/DSC07387.jpg",
+    "full": "./content/images/DSC07387.jpg",
+    "thumb": "./thumbnails/images/DSC07387.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "E 28-75mm F2.8 A063",
@@ -598,8 +598,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07474.jpg",
-    "thumb": "/thumbnails/images/DSC07474.jpg",
+    "full": "./content/images/DSC07474.jpg",
+    "thumb": "./thumbnails/images/DSC07474.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "SAMYANG AF 35mm F1.8",
@@ -611,8 +611,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07508.jpg",
-    "thumb": "/thumbnails/images/DSC07508.jpg",
+    "full": "./content/images/DSC07508.jpg",
+    "thumb": "./thumbnails/images/DSC07508.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "SAMYANG AF 35mm F1.8",
@@ -624,8 +624,8 @@
     }
   },
   {
-    "full": "/content/images/DSC07805.jpg",
-    "thumb": "/thumbnails/images/DSC07805.jpg",
+    "full": "./content/images/DSC07805.jpg",
+    "thumb": "./thumbnails/images/DSC07805.jpg",
     "exif": {
       "camera": "SONY ILCE-7C",
       "lens": "SAMYANG AF 35mm F1.8",
@@ -637,8 +637,8 @@
     }
   },
   {
-    "full": "/content/images/DSC08219.jpg",
-    "thumb": "/thumbnails/images/DSC08219.jpg",
+    "full": "./content/images/DSC08219.jpg",
+    "thumb": "./thumbnails/images/DSC08219.jpg",
     "exif": {
       "camera": "SONY ZV-1",
       "lens": "24-70mm F1.8-2.8",
@@ -650,8 +650,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0004.jpg",
-    "thumb": "/thumbnails/images/Negative0004.jpg",
+    "full": "./content/images/Negative0004.jpg",
+    "thumb": "./thumbnails/images/Negative0004.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -663,8 +663,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0007.jpg",
-    "thumb": "/thumbnails/images/Negative0007.jpg",
+    "full": "./content/images/Negative0007.jpg",
+    "thumb": "./thumbnails/images/Negative0007.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -676,8 +676,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0010.jpg",
-    "thumb": "/thumbnails/images/Negative0010.jpg",
+    "full": "./content/images/Negative0010.jpg",
+    "thumb": "./thumbnails/images/Negative0010.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -689,8 +689,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0029.jpg",
-    "thumb": "/thumbnails/images/Negative0029.jpg",
+    "full": "./content/images/Negative0029.jpg",
+    "thumb": "./thumbnails/images/Negative0029.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -702,8 +702,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0031.jpg",
-    "thumb": "/thumbnails/images/Negative0031.jpg",
+    "full": "./content/images/Negative0031.jpg",
+    "thumb": "./thumbnails/images/Negative0031.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -715,8 +715,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0036.jpg",
-    "thumb": "/thumbnails/images/Negative0036.jpg",
+    "full": "./content/images/Negative0036.jpg",
+    "thumb": "./thumbnails/images/Negative0036.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -728,8 +728,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0056.jpg",
-    "thumb": "/thumbnails/images/Negative0056.jpg",
+    "full": "./content/images/Negative0056.jpg",
+    "thumb": "./thumbnails/images/Negative0056.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -741,8 +741,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0062.jpg",
-    "thumb": "/thumbnails/images/Negative0062.jpg",
+    "full": "./content/images/Negative0062.jpg",
+    "thumb": "./thumbnails/images/Negative0062.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -754,8 +754,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0065.jpg",
-    "thumb": "/thumbnails/images/Negative0065.jpg",
+    "full": "./content/images/Negative0065.jpg",
+    "thumb": "./thumbnails/images/Negative0065.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -767,8 +767,8 @@
     }
   },
   {
-    "full": "/content/images/Negative0067.jpg",
-    "thumb": "/thumbnails/images/Negative0067.jpg",
+    "full": "./content/images/Negative0067.jpg",
+    "thumb": "./thumbnails/images/Negative0067.jpg",
     "exif": {
       "camera": "",
       "lens": null,
@@ -780,8 +780,8 @@
     }
   },
   {
-    "full": "/content/images/R1-01542-012A.JPG",
-    "thumb": "/thumbnails/images/R1-01542-012A.JPG",
+    "full": "./content/images/R1-01542-012A.JPG",
+    "thumb": "./thumbnails/images/R1-01542-012A.JPG",
     "exif": {
       "camera": "",
       "lens": null,
@@ -793,8 +793,8 @@
     }
   },
   {
-    "full": "/content/images/R1-01542-017A.JPG",
-    "thumb": "/thumbnails/images/R1-01542-017A.JPG",
+    "full": "./content/images/R1-01542-017A.JPG",
+    "thumb": "./thumbnails/images/R1-01542-017A.JPG",
     "exif": {
       "camera": "",
       "lens": null,
@@ -806,8 +806,8 @@
     }
   },
   {
-    "full": "/content/images/R1-01542-019A.JPG",
-    "thumb": "/thumbnails/images/R1-01542-019A.JPG",
+    "full": "./content/images/R1-01542-019A.JPG",
+    "thumb": "./thumbnails/images/R1-01542-019A.JPG",
     "exif": {
       "camera": "",
       "lens": null,
@@ -819,48 +819,48 @@
     }
   },
   {
-    "full": "/content/images/R1-01542-021A.JPG",
-    "thumb": "/thumbnails/images/R1-01542-021A.JPG",
+    "full": "./content/images/R1-01542-021A.JPG",
+    "thumb": "./thumbnails/images/R1-01542-021A.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-01542-022A.JPG",
-    "thumb": "/thumbnails/images/R1-01542-022A.JPG",
+    "full": "./content/images/R1-01542-022A.JPG",
+    "thumb": "./thumbnails/images/R1-01542-022A.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-02312-020A.JPG",
-    "thumb": "/thumbnails/images/R1-02312-020A.JPG",
+    "full": "./content/images/R1-02312-020A.JPG",
+    "thumb": "./thumbnails/images/R1-02312-020A.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-03894-011A.JPG",
-    "thumb": "/thumbnails/images/R1-03894-011A.JPG",
+    "full": "./content/images/R1-03894-011A.JPG",
+    "thumb": "./thumbnails/images/R1-03894-011A.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-03894-012A.JPG",
-    "thumb": "/thumbnails/images/R1-03894-012A.JPG",
+    "full": "./content/images/R1-03894-012A.JPG",
+    "thumb": "./thumbnails/images/R1-03894-012A.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-03894-024A.JPG",
-    "thumb": "/thumbnails/images/R1-03894-024A.JPG",
+    "full": "./content/images/R1-03894-024A.JPG",
+    "thumb": "./thumbnails/images/R1-03894-024A.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-08786-0009.JPG",
-    "thumb": "/thumbnails/images/R1-08786-0009.JPG",
+    "full": "./content/images/R1-08786-0009.JPG",
+    "thumb": "./thumbnails/images/R1-08786-0009.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-08786-0012.JPG",
-    "thumb": "/thumbnails/images/R1-08786-0012.JPG",
+    "full": "./content/images/R1-08786-0012.JPG",
+    "thumb": "./thumbnails/images/R1-08786-0012.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-08786-0014.JPG",
-    "thumb": "/thumbnails/images/R1-08786-0014.JPG",
+    "full": "./content/images/R1-08786-0014.JPG",
+    "thumb": "./thumbnails/images/R1-08786-0014.JPG",
     "exif": {
       "camera": "",
       "lens": null,
@@ -872,8 +872,8 @@
     }
   },
   {
-    "full": "/content/images/R1-08786-0032.JPG",
-    "thumb": "/thumbnails/images/R1-08786-0032.JPG",
+    "full": "./content/images/R1-08786-0032.JPG",
+    "thumb": "./thumbnails/images/R1-08786-0032.JPG",
     "exif": {
       "camera": "",
       "lens": null,
@@ -885,8 +885,8 @@
     }
   },
   {
-    "full": "/content/images/R1-09123-0004.JPG",
-    "thumb": "/thumbnails/images/R1-09123-0004.JPG",
+    "full": "./content/images/R1-09123-0004.JPG",
+    "thumb": "./thumbnails/images/R1-09123-0004.JPG",
     "exif": {
       "camera": "",
       "lens": null,
@@ -898,13 +898,13 @@
     }
   },
   {
-    "full": "/content/images/R1-09123-0023.JPG",
-    "thumb": "/thumbnails/images/R1-09123-0023.JPG",
+    "full": "./content/images/R1-09123-0023.JPG",
+    "thumb": "./thumbnails/images/R1-09123-0023.JPG",
     "exif": null
   },
   {
-    "full": "/content/images/R1-09123-0024.JPG",
-    "thumb": "/thumbnails/images/R1-09123-0024.JPG",
+    "full": "./content/images/R1-09123-0024.JPG",
+    "thumb": "./thumbnails/images/R1-09123-0024.JPG",
     "exif": null
   }
 ]
