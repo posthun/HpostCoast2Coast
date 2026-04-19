@@ -14,15 +14,16 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4 for better performance/security
 
-      - name: Show public folder contents
-        run: ls -laR public
+      - name: Show repository contents
+        run: ls -laR 
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          # Changed from ./public to . to serve from the root
+          publish_dir: . 
           publish_branch: gh-pages
           force_orphan: true

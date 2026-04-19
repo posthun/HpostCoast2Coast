@@ -3,9 +3,9 @@ const path = require("path");
 const sharp = require("sharp");
 const exifr = require("exifr");
 
-const CONTENT = "./public/content";
-const OUTPUT = "./public/generated";
-const THUMBS = "./public/thumbnails";
+const CONTENT = "./content";
+const OUTPUT = "./generated";
+const THUMBS = "./thumbnails";
 
 const THUMB_SIZE = 400;
 
