@@ -11,8 +11,334 @@
   },
   {
     "name": "Iya Valley",
-    "description": "",
-    "images": []
+    "description": "Nestled within the rugged heart of Shikoku, the Iya Valley feels less like a destination and more like a step back into a forgotten era of Japan. This gallery captures a few transformative nights spent navigating a landscape defined by mist-shrouded peaks and the deep, emerald waters of the Oboke Gorge.\r\n\r\nThe journey was a study in contrasts—from the adrenaline of crossing swaying vine bridges to the quiet stillness of ancient mountainside hamlets where life winds vertically up the steep slopes. While the narrow, winding roads tested our nerves, the rewards were profound: a world steeped in Yokai folklore and a sense of isolation that offered genuine peace.\r\n\r\nThe collection concludes with a bittersweet visit to Nagoro, the \"Scrowcrow Village.\" Seeing the hand-sewn figures that outnumber the remaining residents serves as a poignant, impactful reminder of the valley’s fading echoes. These images serve as a tribute to one of the most evocative landscapes we have ever explored",
+    "images": [
+      {
+        "full": "./content/collections/Iya Valley/20251128-DSC09122.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251128-DSC09122.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 45,
+          "aperture": 16,
+          "shutter": 0.01,
+          "iso": 500,
+          "date": "2025-11-29T03:20:27.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251128-DSC09127.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251128-DSC09127.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 16,
+          "shutter": 0.01,
+          "iso": 500,
+          "date": "2025-11-29T03:22:08.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251128-DSC09151.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251128-DSC09151.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 67,
+          "aperture": 16,
+          "shutter": 0.005,
+          "iso": 640,
+          "date": "2025-11-29T03:33:53.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251128-DSC09240.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251128-DSC09240.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 2.8,
+          "shutter": 0.03333333333333333,
+          "iso": 1000,
+          "date": "2025-11-29T05:06:22.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251128-DSC09245.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251128-DSC09245.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 75,
+          "aperture": 2.8,
+          "shutter": 0.03333333333333333,
+          "iso": 1000,
+          "date": "2025-11-29T05:33:09.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09250.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09250.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.0025,
+          "iso": 400,
+          "date": "2025-11-29T06:13:47.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09255.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09255.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 64,
+          "aperture": 7.1,
+          "shutter": 0.0025,
+          "iso": 500,
+          "date": "2025-11-29T08:11:23.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09257.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09257.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.0025,
+          "iso": 800,
+          "date": "2025-11-29T08:11:44.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09258.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09258.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.0025,
+          "iso": 1600,
+          "date": "2025-11-29T08:17:04.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09284.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09284.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 51,
+          "aperture": 7.1,
+          "shutter": 0.00625,
+          "iso": 100,
+          "date": "2025-11-29T08:21:34.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09287.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09287.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 30,
+          "aperture": 7.1,
+          "shutter": 0.00625,
+          "iso": 400,
+          "date": "2025-11-29T08:22:33.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09291.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09291.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.00625,
+          "iso": 500,
+          "date": "2025-11-29T08:23:24.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251129-DSC09342.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251129-DSC09342.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 16,
+          "shutter": 0.01,
+          "iso": 800,
+          "date": "2025-11-30T00:39:56.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-20251130_122147.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-20251130_122147.jpg",
+        "exif": {
+          "camera": "",
+          "lens": null,
+          "focal": null,
+          "aperture": null,
+          "shutter": null,
+          "iso": null,
+          "date": "2025-11-30T18:21:47.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09366.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09366.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 14,
+          "shutter": 0.008,
+          "iso": 4000,
+          "date": "2025-11-30T06:02:10.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09376.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09376.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 20,
+          "shutter": 0.008,
+          "iso": 2500,
+          "date": "2025-11-30T06:20:58.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09395.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09395.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 32,
+          "aperture": 14,
+          "shutter": 0.0125,
+          "iso": 800,
+          "date": "2025-11-30T23:14:47.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09399.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09399.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 46,
+          "aperture": 14,
+          "shutter": 0.0125,
+          "iso": 1000,
+          "date": "2025-11-30T23:19:22.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09415.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09415.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.016666666666666666,
+          "iso": 1250,
+          "date": "2025-12-01T02:26:59.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09418.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09418.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.016666666666666666,
+          "iso": 2000,
+          "date": "2025-12-01T02:29:18.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09421.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09421.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.016666666666666666,
+          "iso": 4000,
+          "date": "2025-12-01T02:31:15.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09424.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09424.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 49,
+          "aperture": 8,
+          "shutter": 0.016666666666666666,
+          "iso": 2500,
+          "date": "2025-12-01T02:32:04.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09432.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09432.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 42,
+          "aperture": 6.3,
+          "shutter": 0.008,
+          "iso": 100,
+          "date": "2025-12-01T02:40:50.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09433.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09433.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 48,
+          "aperture": 6.3,
+          "shutter": 0.008,
+          "iso": 800,
+          "date": "2025-12-01T02:45:07.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Iya Valley/20251130-DSC09434.jpg",
+        "thumb": "./thumbnails/collections/Iya Valley/20251130-DSC09434.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 48,
+          "aperture": 6.3,
+          "shutter": 0.008,
+          "iso": 100,
+          "date": "2025-12-01T02:49:48.000Z"
+        }
+      }
+    ]
   },
   {
     "name": "Izu Oshima",

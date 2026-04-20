@@ -38,7 +38,7 @@
       cols.forEach(c => {
         const link = document.createElement("a");
         // Ensure this points to your collection page correctly
-        link.href = `collection.html?name=${encodeURIComponent(c.name)}`;
+        link.href = `collection?name=${encodeURIComponent(c.name)}`;
         link.textContent = c.name;
 
         el.appendChild(link);
