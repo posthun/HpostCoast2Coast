@@ -844,6 +844,441 @@
     ]
   },
   {
+    "name": "Portugal",
+    "description": "",
+    "images": [
+      {
+        "full": "./content/collections/Portugal/DSC07019.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07019.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.0015625,
+          "iso": 160,
+          "date": "2024-09-22T10:59:35.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07036.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07036.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 5.6,
+          "shutter": 0.0003125,
+          "iso": 640,
+          "date": "2024-09-22T12:30:11.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07054.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07054.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 7.1,
+          "shutter": 0.00125,
+          "iso": 320,
+          "date": "2024-09-22T14:11:44.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07071.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07071.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 10,
+          "shutter": 0.0015625,
+          "iso": 6400,
+          "date": "2024-09-22T18:11:16.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07076.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07076.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 59,
+          "aperture": 5.6,
+          "shutter": 0.0015625,
+          "iso": 3200,
+          "date": "2024-09-23T06:07:01.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07078.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07078.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 5.6,
+          "shutter": 0.0015625,
+          "iso": 100,
+          "date": "2024-09-23T09:08:31.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07079.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07079.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 75,
+          "aperture": 5.6,
+          "shutter": 0.0015625,
+          "iso": 125,
+          "date": "2024-09-23T09:09:23.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07083.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07083.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 38,
+          "aperture": 5.6,
+          "shutter": 0.0015625,
+          "iso": 100,
+          "date": "2024-09-23T09:25:41.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07099.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07099.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 52,
+          "aperture": 7.1,
+          "shutter": 0.001,
+          "iso": 160,
+          "date": "2024-09-23T09:56:26.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07119.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07119.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 7.1,
+          "shutter": 0.00125,
+          "iso": 200,
+          "date": "2024-09-23T11:14:01.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07123.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07123.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 7.1,
+          "shutter": 0.001,
+          "iso": 160,
+          "date": "2024-09-23T11:15:31.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07176.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07176.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 9,
+          "shutter": 0.00125,
+          "iso": 4000,
+          "date": "2024-09-25T10:45:39.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07189.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07189.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 5,
+          "shutter": 0.0125,
+          "iso": 4000,
+          "date": "2024-09-25T11:10:05.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07193.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07193.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 8,
+          "shutter": 0.003125,
+          "iso": 320,
+          "date": "2024-09-25T12:23:01.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07275.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07275.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 42,
+          "aperture": 7.1,
+          "shutter": 0.004,
+          "iso": 8000,
+          "date": "2024-09-26T11:16:16.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07277.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07277.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.004,
+          "iso": 8000,
+          "date": "2024-09-26T11:19:03.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07281.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07281.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 7.1,
+          "shutter": 0.004,
+          "iso": 5000,
+          "date": "2024-09-26T11:24:45.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07305.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07305.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 40,
+          "aperture": 5.6,
+          "shutter": 0.00125,
+          "iso": 1250,
+          "date": "2024-09-26T13:29:33.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07323.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07323.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 38,
+          "aperture": 5.6,
+          "shutter": 0.00125,
+          "iso": 640,
+          "date": "2024-09-26T15:01:58.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07327.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07327.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 10,
+          "shutter": 0.002,
+          "iso": 160,
+          "date": "2024-09-26T15:26:52.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07331.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07331.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 35,
+          "aperture": 10,
+          "shutter": 0.002,
+          "iso": 250,
+          "date": "2024-09-27T15:00:04.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07348-Pano.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07348-Pano.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 6.3,
+          "shutter": 0.002,
+          "iso": 100,
+          "date": "2024-09-27T15:16:22.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07387.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07387.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 75,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 200,
+          "date": "2024-09-27T16:05:16.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07403.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07403.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 59,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 640,
+          "date": "2024-09-27T16:21:38.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07417.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07417.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 45,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 500,
+          "date": "2024-09-27T16:26:43.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07421.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07421.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 62,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 200,
+          "date": "2024-09-27T16:32:02.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07426.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07426.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 63,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 100,
+          "date": "2024-09-27T16:47:38.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07432.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07432.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 58,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 800,
+          "date": "2024-09-27T17:03:14.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07444.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07444.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 29,
+          "aperture": 8,
+          "shutter": 0.002,
+          "iso": 640,
+          "date": "2024-09-27T17:33:06.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07458.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07458.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 74,
+          "aperture": 2.8,
+          "shutter": 0.02,
+          "iso": 8000,
+          "date": "2024-09-27T19:50:10.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07477.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07477.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 13,
+          "shutter": 0.001,
+          "iso": 2000,
+          "date": "2024-09-28T10:14:31.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07488.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07488.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 9,
+          "shutter": 0.005,
+          "iso": 800,
+          "date": "2024-09-29T12:20:37.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Portugal/DSC07509.jpg",
+        "thumb": "./thumbnails/collections/Portugal/DSC07509.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 7.1,
+          "shutter": 0.00125,
+          "iso": 1600,
+          "date": "2024-09-28T17:34:18.000Z"
+        }
+      }
+    ]
+  },
+  {
     "name": "Western Ireland",
     "description": "If my first trip to Ireland was defined by the crowded pubs and late nights of Temple Bar, my 2023 return was about finding the country's quiet, rugged soul. Traveling with family this time, we turned our eyes toward the Wild Atlantic Way, trading city streets for the wind-swept cliffs of the West. Our journey took us through County Kerry, where ancient castles stand watch over the sea, and into the vibrant, bayside charm of Dingle. We even found ourselves with a temporary new family member—a donkey named Boinye who kept us company during our rural stay. As we pushed north toward Galway, the landscape shifted into a beautiful mix of deep fjords and grand manor houses. But the true peak of the experience was Inishmore. The largest of the Aran Islands, its sprawling limestone \"pavements\" and prehistoric atmosphere felt like stepping onto the set of a fantasy epic.",
     "images": [
