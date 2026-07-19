@@ -1,5 +1,557 @@
 [
   {
+    "name": "Hong Kong",
+    "description": "Nestled within the rugged heart of Shikoku, the Iya Valley feels less like a destination and more like a step back into a forgotten era of Japan. This gallery captures a few transformative nights spent navigating a landscape defined by mist-shrouded peaks and the deep, emerald waters of the Oboke Gorge.\r\n\r\nThe journey was a study in contrasts—from the adrenaline of crossing swaying vine bridges to the quiet stillness of ancient mountainside hamlets where life winds vertically up the steep slopes. While the narrow, winding roads tested our nerves, the rewards were profound: a world steeped in Yokai folklore and a sense of isolation that offered genuine peace.\r\n\r\nThe collection concludes with a bittersweet visit to Nagoro, the \"Scrowcrow Village.\" Seeing the hand-sewn figures that outnumber the remaining residents serves as a poignant, impactful reminder of the valley’s fading echoes. These images serve as a tribute to one of the most evocative landscapes we have ever explored",
+    "images": [
+      {
+        "full": "./content/collections/Hong Kong/Hk-01.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-01.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 36,
+          "aperture": 8,
+          "shutter": 0.00625,
+          "iso": 8000,
+          "date": "2026-05-22T13:03:36.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-02.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-02.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.004,
+          "iso": 1000,
+          "date": "2026-05-17T01:17:14.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-03.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-03.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 50,
+          "aperture": 6.3,
+          "shutter": 0.008,
+          "iso": 400,
+          "date": "2026-05-16T00:54:05.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-04.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-04.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 1000,
+          "date": "2026-05-16T00:54:47.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-05.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-05.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 47,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 500,
+          "date": "2026-05-16T01:17:02.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-06.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-06.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 35,
+          "aperture": 2.8,
+          "shutter": 0.00125,
+          "iso": 125,
+          "date": "2026-05-16T03:45:27.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-07.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-07.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 37,
+          "aperture": 7.1,
+          "shutter": 0.008,
+          "iso": 3200,
+          "date": "2026-05-18T01:14:30.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-08.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-08.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+          "focal": 24,
+          "aperture": 8,
+          "shutter": 0.004,
+          "iso": 8000,
+          "date": "2026-05-17T00:46:37.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-09.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-09.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 73,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 1250,
+          "date": "2026-05-18T02:13:03.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-10.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-10.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 160,
+          "date": "2026-05-18T02:15:27.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-11.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-11.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 35,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 125,
+          "date": "2026-05-18T02:15:59.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-12.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-12.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 30,
+          "aperture": 18,
+          "shutter": 0.003125,
+          "iso": 8000,
+          "date": "2026-05-18T03:52:50.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-13.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-13.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 320,
+          "date": "2026-05-18T02:26:45.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-14.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-14.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 10,
+          "shutter": 0.008,
+          "iso": 320,
+          "date": "2026-05-18T02:26:26.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-15.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-15.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 31,
+          "aperture": 18,
+          "shutter": 0.0025,
+          "iso": 400,
+          "date": "2026-05-18T02:54:46.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-16.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-16.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 41,
+          "aperture": 18,
+          "shutter": 0.003125,
+          "iso": 500,
+          "date": "2026-05-18T04:02:37.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-17.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-17.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 41,
+          "aperture": 18,
+          "shutter": 0.003125,
+          "iso": 1600,
+          "date": "2026-05-18T06:49:35.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-18.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-18.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 42,
+          "aperture": 18,
+          "shutter": 0.003125,
+          "iso": 1600,
+          "date": "2026-05-18T06:51:10.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-19.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-19.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 56,
+          "aperture": 18,
+          "shutter": 0.003125,
+          "iso": 2000,
+          "date": "2026-05-18T07:01:02.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-20.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-20.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 18,
+          "shutter": 0.003125,
+          "iso": 640,
+          "date": "2026-05-18T07:06:02.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-21.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-21.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 5.6,
+          "shutter": 0.02,
+          "iso": 8000,
+          "date": "2026-05-18T11:53:37.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-22.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-22.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.004,
+          "iso": 1250,
+          "date": "2026-05-19T05:49:45.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-23.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-23.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 58,
+          "aperture": 8,
+          "shutter": 0.004,
+          "iso": 3200,
+          "date": "2026-05-19T05:51:01.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-24.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-24.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+          "focal": 22.2,
+          "aperture": 7.1,
+          "shutter": 0.01,
+          "iso": 100,
+          "date": "2026-05-19T07:24:48.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-25.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-25.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+          "focal": 19.6,
+          "aperture": 7.1,
+          "shutter": 0.01,
+          "iso": 100,
+          "date": "2026-05-19T07:27:49.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-26.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-26.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.008,
+          "iso": 8000,
+          "date": "2026-05-21T04:40:29.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-27.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-27.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.008,
+          "iso": 8000,
+          "date": "2026-05-21T04:41:40.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-28.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-28.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.008,
+          "iso": 1250,
+          "date": "2026-05-21T05:43:36.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-29.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-29.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 53,
+          "aperture": 8,
+          "shutter": 0.008,
+          "iso": 640,
+          "date": "2026-05-21T08:31:38.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-30.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-30.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.008,
+          "iso": 640,
+          "date": "2026-05-21T08:34:30.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-31.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-31.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 41,
+          "aperture": 8,
+          "shutter": 0.008,
+          "iso": 800,
+          "date": "2026-05-21T08:35:29.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-32.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-32.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 8,
+          "shutter": 0.0125,
+          "iso": 100,
+          "date": "2026-05-22T03:07:11.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-33.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-33.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 8,
+          "shutter": 0.00625,
+          "iso": 500,
+          "date": "2026-05-22T03:10:43.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-34.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-34.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 16,
+          "shutter": 0.00625,
+          "iso": 640,
+          "date": "2026-05-22T03:26:56.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-35.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-35.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 16,
+          "shutter": 0.00625,
+          "iso": 400,
+          "date": "2026-05-22T03:55:19.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-36.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-36.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 8,
+          "shutter": 0.00625,
+          "iso": 160,
+          "date": "2026-05-22T04:25:30.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-37.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-37.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 57,
+          "aperture": 8,
+          "shutter": 0.00625,
+          "iso": 500,
+          "date": "2026-05-23T03:52:27.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-38.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-38.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 10,
+          "shutter": 0.005,
+          "iso": 100,
+          "date": "2026-05-23T06:46:47.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-39.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-39.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "SAMYANG AF 35mm F1.8",
+          "focal": 35,
+          "aperture": 10,
+          "shutter": 0.005,
+          "iso": 200,
+          "date": "2026-05-23T06:59:36.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-40.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-40.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 30,
+          "aperture": 6.3,
+          "shutter": 0.016666666666666666,
+          "iso": 8000,
+          "date": "2026-05-23T13:10:42.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-41.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-41.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+          "focal": 17.2,
+          "aperture": 7.1,
+          "shutter": 0.004,
+          "iso": 8000,
+          "date": "2026-05-16T12:19:00.000Z"
+        }
+      },
+      {
+        "full": "./content/collections/Hong Kong/Hk-42.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/Hk-42.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 46,
+          "aperture": 7.1,
+          "shutter": 0.008,
+          "iso": 100,
+          "date": "2026-05-18T02:09:03.000Z"
+        }
+      }
+    ]
+  },
+  {
     "name": "Iya Valley",
     "description": "Nestled within the rugged heart of Shikoku, the Iya Valley feels less like a destination and more like a step back into a forgotten era of Japan. This gallery captures a few transformative nights spent navigating a landscape defined by mist-shrouded peaks and the deep, emerald waters of the Oboke Gorge.\r\n\r\nThe journey was a study in contrasts—from the adrenaline of crossing swaying vine bridges to the quiet stillness of ancient mountainside hamlets where life winds vertically up the steep slopes. While the narrow, winding roads tested our nerves, the rewards were profound: a world steeped in Yokai folklore and a sense of isolation that offered genuine peace.\r\n\r\nThe collection concludes with a bittersweet visit to Nagoro, the \"Scrowcrow Village.\" Seeing the hand-sewn figures that outnumber the remaining residents serves as a poignant, impactful reminder of the valley’s fading echoes. These images serve as a tribute to one of the most evocative landscapes we have ever explored",
     "images": [
@@ -358,7 +910,7 @@
   },
   {
     "name": "Izu Oshima",
-    "description": "I arrived on a cold and rainy day and after debarking the ferry which slid in between walls of tetrapods and filling my stomach with perhaps the best bowl of Kaisendon I've had in my life. I explored the sleepy fishing town of Okata. walked past docked fishing boats, houses with paint peeled by the salty sea air and taking a moment to take in the quiet town shrine. From there with the pushed our small kei van to the limit to climb up, passing through fields of Japanese Silver Grass to the lip of Mt. Mihara, the active volcano that in 1986 caused an island wide evacuation in it's eruption which deposited the very same lava flows I hiked across.\n\n\nClimbing to the top the weather started to break, and the sun started poking through the clouds, illuminating the fields of silvergrass growing amongst the durable lava flows, on the other side of the peak, the black sand Ura-sabaku Desert opened up to us exposing an almost lunar landscape. From there we were lucky enough to stay in a small fishing village on the southern side of the island and were delighted to watch the fisherman go out to sea for their daily catch before making our journey back to Tokyo.\n\n",
+    "description": "I arrived on a cold and rainy day and after debarking the ferry which slid in between walls of tetrapods and filling my stomach with perhaps the best bowl of Kaisendon I've had in my life. I explored the sleepy fishing town of Okata. walked past docked fishing boats, houses with paint peeled by the salty sea air and taking a moment to take in the quiet town shrine. From there with the pushed our small kei van to the limit to climb up, passing through fields of Japanese Silver Grass to the lip of Mt. Mihara, the active volcano that in 1986 caused an island wide evacuation in it's eruption which deposited the very same lava flows I hiked across.\r\n\r\n\r\nClimbing to the top the weather started to break, and the sun started poking through the clouds, illuminating the fields of silvergrass growing amongst the durable lava flows, on the other side of the peak, the black sand Ura-sabaku Desert opened up to us exposing an almost lunar landscape. From there we were lucky enough to stay in a small fishing village on the southern side of the island and were delighted to watch the fisherman go out to sea for their daily catch before making our journey back to Tokyo.\r\n\r\n",
     "images": [
       {
         "full": "./content/collections/Izu Oshima/DSC08195.jpg",
