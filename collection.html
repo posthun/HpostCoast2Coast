@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Collection</title>
+  <link rel="stylesheet" href="./styles/styles.css" />
+</head>
+
+<body>
+<div class="fade-in">
+  <div class="nav">
+    <a href="./index.html">← Back</a>
+  </div>
+
+  <div class="collection-header">
+    <h2 id="title"></h2>
+    <p id="desc"></p>
+  </div>
+
+  <div id="gallery" class="grid"></div>
+
+  <script src="./js/viewer.js"></script>
+
+  <script>
+const params = new URLSearchParams(window.location.search);
+const name = params.get("name");
+
+console.log("CURRENT PAGE:", window.location.href);
+console.log("PARAMS:", name);
+
+fetch("./generated/collections.json")
+  .then(r => r.json())
+  .then(cols => {
+    if (!name) {
+      document.body.innerHTML = "<p style='text-align:center'>No collection specified.</p>";
+      return;
+    }
+    console.log('collec');
+    const clean = s => s.trim().toLowerCase();
+    const c = cols.find(x => clean(x.name) === clean(name));
+
+    if (!c) {
+      console.error("Collection not found:", name);
+      document.body.innerHTML = `<p style="text-align:center">Collection "${name}" not found.</p>`;
+      return;
+    }
+
+    document.getElementById("title").innerText = c.name;
+    document.getElementById("desc").innerText = c.description;
+
+    const grid = document.getElementById("gallery");
+
+    c.images.forEach((img, i) => {
+      const el = document.createElement("img");
+      el.src = img.thumb;
+      el.onclick = () => openViewer(c.images, i);
+      grid.appendChild(el);
+    });
+  })
+  .catch(err => {
+    console.error("Failed to load collections:", err);
+  });
+  </script>
+</div>
+</body>
+</html>

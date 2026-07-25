@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About - Hunter Posten</title>
+
+  <link rel="stylesheet" href="./styles.css" />
+
+  <style>
+    .about-container {
+      max-width: 900px;
+      margin: 60px auto;
+      padding: 20px;
+    }
+
+    .about-title {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 30px;
+      text-decoration: none;
+      color: #333;
+      font-size: 0.95rem;
+      transition: opacity 0.2s ease;
+    }
+
+    .back-link:hover {
+      opacity: 0.6;
+    }
+
+    .about-content {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 40px;
+      align-items: center;
+      justify-content: center;
+
+      /* ✨ Fade-in animation */
+      animation: fadeIn 0.6s ease-in;
+    }
+
+    .about-image {
+      flex: 1 1 300px;
+      max-width: 350px;
+    }
+
+    .about-image img {
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    }
+
+    .about-text {
+      flex: 1 1 300px;
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+
+    .about-text p {
+      margin-bottom: 16px;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 700px) {
+      .about-content {
+        flex-direction: column;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+
+<body>
+ <div class="fade-in">
+  <div class="about-container">
+
+    <!-- 🔙 Back to Gallery -->
+    <a href="./index.html" class="back-link">← Back to Gallery</a>
+
+    <div class="about-title">
+      <h1>About Me</h1>
+    </div>
+
+    <div class="about-content">
+      <div class="about-image">
+        <img src="./content/About/me.jpg" alt="Hunter Posten">
+      </div>
+
+      <div class="about-text">
+        <p>
+          I’m Hunter Posten, based in the Twin Cities. I work as a software engineer, but over the past few years photography has become my main hobby.
+        </p>
+        <p>
+          I don’t really have a big, pretentious mission statement—I just like taking photos when I travel and figured it was time to finally put them somewhere.
+        </p>
+        <p>
+          If you see something on here you particularly enjoy, I'm happy to supply prints and full resolution files, please just reach out to me at hunteposten@gmail.com.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</body>
+</div>
+</html>
