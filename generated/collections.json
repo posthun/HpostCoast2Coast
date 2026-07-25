@@ -548,6 +548,19 @@
           "iso": 100,
           "date": "2026-05-18T02:09:03.000Z"
         }
+      },
+      {
+        "full": "./content/collections/Hong Kong/web-86.jpg",
+        "thumb": "./thumbnails/collections/Hong Kong/web-86.jpg",
+        "exif": {
+          "camera": "SONY ILCE-7C",
+          "lens": "E 28-75mm F2.8 A063",
+          "focal": 28,
+          "aperture": 8,
+          "shutter": 0.004,
+          "iso": 2500,
+          "date": "2026-05-17T01:20:38.000Z"
+        }
       }
     ]
   },
