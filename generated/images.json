@@ -1,0 +1,1107 @@
+[
+  {
+    "full": "./content/images/web-01.jpg",
+    "thumb": "./thumbnails/images/web-01.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 41,
+      "aperture": 8,
+      "shutter": 0.008,
+      "iso": 800,
+      "date": "2026-05-21T08:35:29.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-02.jpg",
+    "thumb": "./thumbnails/images/web-02.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 8,
+      "shutter": 0.008,
+      "iso": 8000,
+      "date": "2026-05-21T04:40:29.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-03.jpg",
+    "thumb": "./thumbnails/images/web-03.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 53,
+      "aperture": 8,
+      "shutter": 0.008,
+      "iso": 640,
+      "date": "2026-05-21T08:31:38.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-04.jpg",
+    "thumb": "./thumbnails/images/web-04.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+      "focal": 19.6,
+      "aperture": 7.1,
+      "shutter": 0.01,
+      "iso": 100,
+      "date": "2026-05-19T07:27:49.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-05.jpg",
+    "thumb": "./thumbnails/images/web-05.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 36,
+      "aperture": 8,
+      "shutter": 0.00625,
+      "iso": 8000,
+      "date": "2026-05-22T13:03:36.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-06.jpg",
+    "thumb": "./thumbnails/images/web-06.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 57,
+      "aperture": 8,
+      "shutter": 0.00625,
+      "iso": 500,
+      "date": "2026-05-23T03:52:27.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-07.jpg",
+    "thumb": "./thumbnails/images/web-07.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 37,
+      "aperture": 7.1,
+      "shutter": 0.008,
+      "iso": 3200,
+      "date": "2026-05-18T01:14:30.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-08.jpg",
+    "thumb": "./thumbnails/images/web-08.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 56,
+      "aperture": 18,
+      "shutter": 0.003125,
+      "iso": 2000,
+      "date": "2026-05-18T07:01:02.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-09.jpg",
+    "thumb": "./thumbnails/images/web-09.jpg",
+    "exif": {
+      "camera": "SONY ZV-1",
+      "lens": "24-70mm F1.8-2.8",
+      "focal": 9.4,
+      "aperture": 9,
+      "shutter": 0.01,
+      "iso": 125,
+      "date": "2021-03-27T05:47:24.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-10.jpg",
+    "thumb": "./thumbnails/images/web-10.jpg",
+    "exif": {
+      "camera": "SONY ZV-1",
+      "lens": "24-70mm F1.8-2.8",
+      "focal": 22.74,
+      "aperture": 5.6,
+      "shutter": 0.0015625,
+      "iso": 125,
+      "date": "2021-03-26T08:39:54.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-11.jpg",
+    "thumb": "./thumbnails/images/web-11.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 5,
+      "shutter": 0.02,
+      "iso": 12800,
+      "date": "2025-11-28T01:42:36.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-12.jpg",
+    "thumb": "./thumbnails/images/web-12.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 3.2,
+      "shutter": 0.025,
+      "iso": 3200,
+      "date": "2025-12-05T09:53:29.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-13.jpg",
+    "thumb": "./thumbnails/images/web-13.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 11,
+      "shutter": 0.00625,
+      "iso": 125,
+      "date": "2025-11-22T04:00:33.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-14.jpg",
+    "thumb": "./thumbnails/images/web-14.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 5,
+      "shutter": 0.008,
+      "iso": 160,
+      "date": "2025-11-19T07:09:49.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-15.jpg",
+    "thumb": "./thumbnails/images/web-15.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 38,
+      "aperture": 6.3,
+      "shutter": 0.00625,
+      "iso": 800,
+      "date": "2025-11-16T08:05:08.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-16.jpg",
+    "thumb": "./thumbnails/images/web-16.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 6.3,
+      "shutter": 0.00625,
+      "iso": 4000,
+      "date": "2025-11-16T08:08:23.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-17.jpg",
+    "thumb": "./thumbnails/images/web-17.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 45,
+      "aperture": 8,
+      "shutter": 0.002,
+      "iso": 250,
+      "date": "2025-11-17T02:18:08.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-18.jpg",
+    "thumb": "./thumbnails/images/web-18.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 46,
+      "aperture": 18,
+      "shutter": 0.01,
+      "iso": 200,
+      "date": "2025-11-20T00:21:40.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-19.jpg",
+    "thumb": "./thumbnails/images/web-19.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 52,
+      "aperture": 22,
+      "shutter": 0.00625,
+      "iso": 640,
+      "date": "2025-11-22T04:21:52.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-20.jpg",
+    "thumb": "./thumbnails/images/web-20.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 51,
+      "aperture": 22,
+      "shutter": 0.00625,
+      "iso": 640,
+      "date": "2025-11-22T04:24:13.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-21.jpg",
+    "thumb": "./thumbnails/images/web-21.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 10,
+      "shutter": 0.00625,
+      "iso": 2000,
+      "date": "2025-11-24T08:25:57.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-22.jpg",
+    "thumb": "./thumbnails/images/web-22.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 16,
+      "shutter": 0.00625,
+      "iso": 3200,
+      "date": "2025-11-25T05:09:36.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-23.jpg",
+    "thumb": "./thumbnails/images/web-23.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 5.6,
+      "shutter": 0.002,
+      "iso": 400,
+      "date": "2025-11-27T08:34:11.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-24.jpg",
+    "thumb": "./thumbnails/images/web-24.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 32,
+      "aperture": 16,
+      "shutter": 0.01,
+      "iso": 500,
+      "date": "2025-11-29T03:22:35.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-25.jpg",
+    "thumb": "./thumbnails/images/web-25.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 67,
+      "aperture": 16,
+      "shutter": 0.005,
+      "iso": 640,
+      "date": "2025-11-29T03:33:53.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-26.jpg",
+    "thumb": "./thumbnails/images/web-26.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 30,
+      "aperture": 7.1,
+      "shutter": 0.00625,
+      "iso": 400,
+      "date": "2025-11-29T08:22:33.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-27.jpg",
+    "thumb": "./thumbnails/images/web-27.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 5.6,
+      "shutter": 30,
+      "iso": 1000,
+      "date": "2025-11-29T12:54:02.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-28.jpg",
+    "thumb": "./thumbnails/images/web-28.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 20,
+      "shutter": 0.008,
+      "iso": 2500,
+      "date": "2025-11-30T06:20:58.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-29.jpg",
+    "thumb": "./thumbnails/images/web-29.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 32,
+      "aperture": 14,
+      "shutter": 0.0125,
+      "iso": 800,
+      "date": "2025-11-30T23:14:47.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-30.jpg",
+    "thumb": "./thumbnails/images/web-30.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 8,
+      "shutter": 0.016666666666666666,
+      "iso": 2000,
+      "date": "2025-12-01T02:29:18.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-31.jpg",
+    "thumb": "./thumbnails/images/web-31.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 8,
+      "shutter": 0.016666666666666666,
+      "iso": 3200,
+      "date": "2025-12-01T02:31:38.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-32.jpg",
+    "thumb": "./thumbnails/images/web-32.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 70-300mm F4.5-6.3 A047",
+      "focal": 123,
+      "aperture": 9,
+      "shutter": 0.002,
+      "iso": 800,
+      "date": "2025-12-06T07:29:23.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-33.jpg",
+    "thumb": "./thumbnails/images/web-33.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 70-300mm F4.5-6.3 A047",
+      "focal": 73,
+      "aperture": 5.6,
+      "shutter": 0.01,
+      "iso": 320,
+      "date": "2025-11-13T13:54:24.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-34.jpg",
+    "thumb": "./thumbnails/images/web-34.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 4.5,
+      "shutter": 0.0015625,
+      "iso": 3200,
+      "date": "2025-08-22T23:17:21.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-35.jpg",
+    "thumb": "./thumbnails/images/web-35.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 6.3,
+      "shutter": 0.0015625,
+      "iso": 320,
+      "date": "2025-08-23T00:30:35.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-36.jpg",
+    "thumb": "./thumbnails/images/web-36.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 3.5,
+      "shutter": 0.0008,
+      "iso": 500,
+      "date": "2023-11-22T03:29:29.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-37.jpg",
+    "thumb": "./thumbnails/images/web-37.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 74,
+      "aperture": 2.8,
+      "shutter": 0.025,
+      "iso": 3200,
+      "date": "2023-11-15T12:35:50.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-38.jpg",
+    "thumb": "./thumbnails/images/web-38.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 72,
+      "aperture": 7.1,
+      "shutter": 0.00125,
+      "iso": 2500,
+      "date": "2024-10-13T17:37:14.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-39.jpg",
+    "thumb": "./thumbnails/images/web-39.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 7.1,
+      "shutter": 0.00125,
+      "iso": 1600,
+      "date": "2024-09-28T17:34:18.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-40.jpg",
+    "thumb": "./thumbnails/images/web-40.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.002,
+      "iso": 200,
+      "date": "2024-09-27T16:05:16.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-41.jpg",
+    "thumb": "./thumbnails/images/web-41.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 7.1,
+      "shutter": 0.0015625,
+      "iso": 160,
+      "date": "2024-09-22T10:59:35.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-42.jpg",
+    "thumb": "./thumbnails/images/web-42.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 7.1,
+      "shutter": 0.0015625,
+      "iso": 6400,
+      "date": "2024-09-22T18:11:55.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-43.jpg",
+    "thumb": "./thumbnails/images/web-43.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 5.6,
+      "shutter": 0.0015625,
+      "iso": 125,
+      "date": "2024-09-23T09:09:23.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-44.jpg",
+    "thumb": "./thumbnails/images/web-44.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 7.1,
+      "shutter": 0.00125,
+      "iso": 200,
+      "date": "2024-09-23T11:14:01.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-45.jpg",
+    "thumb": "./thumbnails/images/web-45.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 9,
+      "shutter": 0.00125,
+      "iso": 4000,
+      "date": "2024-09-25T10:45:39.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-46.jpg",
+    "thumb": "./thumbnails/images/web-46.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 10,
+      "shutter": 0.00125,
+      "iso": 640,
+      "date": "2024-08-04T12:01:13.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-47.jpg",
+    "thumb": "./thumbnails/images/web-47.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 5,
+      "shutter": 0.004,
+      "iso": 3200,
+      "date": "2024-08-02T14:52:07.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-48.jpg",
+    "thumb": "./thumbnails/images/web-48.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.000625,
+      "iso": 2000,
+      "date": "2024-08-02T17:47:45.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-49.jpg",
+    "thumb": "./thumbnails/images/web-49.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 69,
+      "aperture": 2.8,
+      "shutter": 0.0003125,
+      "iso": 400,
+      "date": "2024-08-02T17:36:35.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-50.jpg",
+    "thumb": "./thumbnails/images/web-50.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 67,
+      "aperture": 10,
+      "shutter": 0.0008,
+      "iso": 1000,
+      "date": "2024-07-28T11:03:31.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-51.jpg",
+    "thumb": "./thumbnails/images/web-51.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 52,
+      "aperture": 4.5,
+      "shutter": 0.0015625,
+      "iso": 200,
+      "date": "2024-06-16T13:40:05.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-52.jpg",
+    "thumb": "./thumbnails/images/web-52.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.0015625,
+      "iso": 640,
+      "date": "2024-06-16T13:43:05.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-53.jpg",
+    "thumb": "./thumbnails/images/web-53.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 2.8,
+      "shutter": 0.02,
+      "iso": 1600,
+      "date": "2023-11-15T13:19:39.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-54.jpg",
+    "thumb": "./thumbnails/images/web-54.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 45,
+      "aperture": 7.1,
+      "shutter": 0.0015625,
+      "iso": 320,
+      "date": "2023-11-21T06:46:27.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-55.jpg",
+    "thumb": "./thumbnails/images/web-55.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 1.8,
+      "shutter": 0.02,
+      "iso": 6400,
+      "date": "2023-11-23T10:11:59.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-56.jpg",
+    "thumb": "./thumbnails/images/web-56.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 53,
+      "aperture": 8,
+      "shutter": 0.004,
+      "iso": 1600,
+      "date": "2023-11-20T08:55:15.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-57.jpg",
+    "thumb": "./thumbnails/images/web-57.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 55,
+      "aperture": 9,
+      "shutter": 0.01,
+      "iso": 250,
+      "date": "2023-11-19T00:22:59.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-58.jpg",
+    "thumb": "./thumbnails/images/web-58.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 7.1,
+      "shutter": 0.0015625,
+      "iso": 125,
+      "date": "2023-11-13T05:04:24.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-59.jpg",
+    "thumb": "./thumbnails/images/web-59.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 45,
+      "aperture": 4.5,
+      "shutter": 0.003125,
+      "iso": 200,
+      "date": "2023-11-16T03:17:43.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-60.jpg",
+    "thumb": "./thumbnails/images/web-60.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 9,
+      "shutter": 0.003125,
+      "iso": 200,
+      "date": "2023-11-16T05:29:34.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-61.jpg",
+    "thumb": "./thumbnails/images/web-61.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 1.8,
+      "shutter": 0.03333333333333333,
+      "iso": 2000,
+      "date": "2023-11-17T10:27:44.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-62.jpg",
+    "thumb": "./thumbnails/images/web-62.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 60,
+      "aperture": 4.5,
+      "shutter": 0.00125,
+      "iso": 200,
+      "date": "2023-11-16T02:55:44.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-63.jpg",
+    "thumb": "./thumbnails/images/web-63.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 72,
+      "aperture": 4,
+      "shutter": 0.00625,
+      "iso": 160,
+      "date": "2023-11-19T00:09:51.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-64.jpg",
+    "thumb": "./thumbnails/images/web-64.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 54,
+      "aperture": 3.5,
+      "shutter": 0.0008,
+      "iso": 3200,
+      "date": "2023-11-22T03:18:20.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-65.jpg",
+    "thumb": "./thumbnails/images/web-65.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 2,
+      "shutter": 0.02,
+      "iso": 250,
+      "date": "2023-11-22T12:26:08.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-66.jpg",
+    "thumb": "./thumbnails/images/web-66.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 3.2,
+      "shutter": 0.02,
+      "iso": 1600,
+      "date": "2023-11-12T08:30:12.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-67.jpg",
+    "thumb": "./thumbnails/images/web-67.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 2,
+      "shutter": 0.008,
+      "iso": 800,
+      "date": "2023-10-17T23:42:49.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-68.jpg",
+    "thumb": "./thumbnails/images/web-68.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 5.6,
+      "shutter": 0.0015625,
+      "iso": 800,
+      "date": "2023-09-23T20:05:04.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-69.jpg",
+    "thumb": "./thumbnails/images/web-69.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "SAMYANG AF 35mm F1.8",
+      "focal": 35,
+      "aperture": 2.5,
+      "shutter": 0.02,
+      "iso": 1600,
+      "date": "2023-10-01T16:45:35.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-70.jpg",
+    "thumb": "./thumbnails/images/web-70.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 49,
+      "aperture": 2.8,
+      "shutter": 0.02,
+      "iso": 3200,
+      "date": "2023-09-30T02:35:57.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-71.jpg",
+    "thumb": "./thumbnails/images/web-71.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 67,
+      "aperture": 2.8,
+      "shutter": 0.00625,
+      "iso": 1600,
+      "date": "2023-08-21T01:08:55.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-72.jpg",
+    "thumb": "./thumbnails/images/web-72.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 58,
+      "aperture": 2.8,
+      "shutter": 0.0125,
+      "iso": 2500,
+      "date": "2023-08-21T01:30:45.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-73.jpg",
+    "thumb": "./thumbnails/images/web-73.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 71,
+      "aperture": 8,
+      "shutter": 0.001,
+      "iso": 200,
+      "date": "2023-07-10T23:45:57.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-74.jpg",
+    "thumb": "./thumbnails/images/web-74.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 13,
+      "shutter": 0.01,
+      "iso": 100,
+      "date": "2023-05-05T19:18:33.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-75.jpg",
+    "thumb": "./thumbnails/images/web-75.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 4.5,
+      "shutter": 0.000625,
+      "iso": 100,
+      "date": "2023-05-07T00:54:06.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-76.jpg",
+    "thumb": "./thumbnails/images/web-76.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.004,
+      "iso": 320,
+      "date": "2023-05-08T03:25:06.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-77.jpg",
+    "thumb": "./thumbnails/images/web-77.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 2.8,
+      "shutter": 0.004,
+      "iso": 400,
+      "date": "2023-05-07T21:28:50.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-78.jpg",
+    "thumb": "./thumbnails/images/web-78.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 2.8,
+      "shutter": 0.0004,
+      "iso": 100,
+      "date": "2023-03-13T19:56:08.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-79.jpg",
+    "thumb": "./thumbnails/images/web-79.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "----",
+      "focal": null,
+      "aperture": null,
+      "shutter": 0.02,
+      "iso": 1000,
+      "date": "2023-01-11T02:40:15.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-80.jpg",
+    "thumb": "./thumbnails/images/web-80.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "----",
+      "focal": null,
+      "aperture": null,
+      "shutter": 0.02,
+      "iso": 800,
+      "date": "2023-01-11T03:06:51.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-81.jpg",
+    "thumb": "./thumbnails/images/web-81.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 75,
+      "aperture": 8,
+      "shutter": 0.0125,
+      "iso": 125,
+      "date": "2022-12-06T10:55:55.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-82.jpg",
+    "thumb": "./thumbnails/images/web-82.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 66,
+      "aperture": 13,
+      "shutter": 0.005,
+      "iso": 800,
+      "date": "2022-12-06T13:23:01.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-83.jpg",
+    "thumb": "./thumbnails/images/web-83.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 28,
+      "aperture": 13,
+      "shutter": 0.004,
+      "iso": 640,
+      "date": "2022-12-06T13:11:59.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-84.jpg",
+    "thumb": "./thumbnails/images/web-84.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "E 28-75mm F2.8 A063",
+      "focal": 33,
+      "aperture": 5.6,
+      "shutter": 0.004,
+      "iso": 160,
+      "date": "2022-12-06T13:02:19.000Z"
+    }
+  },
+  {
+    "full": "./content/images/web-85.jpg",
+    "thumb": "./thumbnails/images/web-85.jpg",
+    "exif": {
+      "camera": "SONY ILCE-7C",
+      "lens": "16-28mm F2.8 DG DN | Contemporary 022",
+      "focal": 28,
+      "aperture": 8,
+      "shutter": 0.01,
+      "iso": 6400,
+      "date": "2022-10-14T12:56:46.000Z"
+    }
+  }
+]
